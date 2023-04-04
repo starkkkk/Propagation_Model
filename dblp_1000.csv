@@ -1,0 +1,912 @@
+Spectre Attacks: Exploiting Speculative Execution.,2018,"['Paul Kocher', 'Daniel Genkin', 'Daniel Gruss', 'Werner Haas 0004', 'Mike Hamburg', 'Moritz Lipp', 'Stefan Mangard', 'Thomas Prescher 0002', 'Michael Schwarz 0001', 'Yuval Yarom']",meltdownattack.com
+Meltdown,2018,"['Moritz Lipp', 'Michael Schwarz 0001', 'Daniel Gruss', 'Thomas Prescher 0002', 'Werner Haas 0004', 'Stefan Mangard', 'Paul Kocher', 'Daniel Genkin', 'Yuval Yarom', 'Mike Hamburg']",meltdownattack.com
+DARWIN: On the Incremental Migration of Legacy Information Systems,1993,"['Frank Manola', 'Michael L. Brodie', 'Michael Stonebraker']",GTE Laboratories Incorporated
+"Integrating Heterogeneous, Autonomous, Distributed Applications Using the DOM Prototype.",1991,"['Mark F. Hornick', 'Joe D. Morrison', 'Farshad Nayeri']",GTE Laboratories Incorporated
+Integrating Object-Oriented Applications and Middleware with Relational Databases.,1995,"['Frank Manola', 'Frank Manola']",GTE Laboratories Incorporated
+Towards a Transaction Management System for DOM.,1991,"['Alejandro P. Buchmann', 'M. Tamer ', 'Dimitrios Georgakopoulos']",GTE Laboratories Incorporated
+A 'RISC' Object Model for Object System Interoperation: Concepts and Applications.,1993,"['Frank Manola', 'Sandra Heiler']",GTE Laboratories Incorporated
+Object Data Language Facilities for Multimedia Data Types.,1991,"['Frank Manola', 'Frank Manola']",GTE Laboratories Incorporated
+Object Data Model Facilities for Multimedia Data Types.,1990,"['Frank Manola', 'Mark F. Hornick', 'Alejandro P. Buchmann']",GTE Laboratories Incorporated
+Experiments with Dispatching in a Distributed Object System.,1993,"['Frank Manola', 'Farshad Nayeri', 'Benjamin Hurwitz']",GTE Laboratories Incorporated
+Object Oriented DBMS as a Generalization of Relational DBMS,1990,"['Michael Stonebraker', 'David Beech', 'Cetin Ozbutun']",ANSI X3H2
+Inheritance for ADTs (revised),1991,"['Krishna G. Kulkarni', 'Jim Melton', 'Jonathan Bauer', 'Mike Kelley']",ANSI X2H2
+Object ADTs (with improvements for Value ADTs),1991,"['Phil Shaw', 'Jim Melton', 'Jonathan Bauer', 'Krishna G. Kulkarni']",ANSI X3H2
+Die Repr,1991,"['David Beech', 'Rolf Sander']",IWBS Report
+Wissensrepr,1987,"['Thomas Ludwig 0001', 'Werner Emde', 'Claus-Rainer Rollinger']",LILOG-Report
+An Algebraic Characterization of STUF,1988,"['Christoph Beierle', 'Udo Pletat', 'Hans Uszkoreit']",LILOG-Report
+A Combined Symbolic-Empirical Apprach for the Automatic Translation of Compounds,1992,"['Ulrike Rackow', 'Ido Dagan', 'Ulrike Schwall']",IWBS Report
+Mengenorientierte Auswertung von Anfragen in der Logikprogrammiersprache PROLOG,1988,"['Brigitte Bartsch-Sp', 'Erich Gehlen', 'Burkhard Kehrbusch']",LILOG-Report
+Definite Resolution over Constraint Languages,1988,"['Markus H', 'Gert Smolka']",LILOG-Report
+Cognitive Linguistics: The Processing of Spatial Concepts,1988,"['Birgit Wesche', 'Christopher Habel']",LILOG-Report
+LILOG-DB: Database Support for Knowledge-Based Systems,1988,"['Thomas Ludwig 0001', 'Bernd Walter', 'Michael Ley', 'Albert Maier', 'Erich Gehlen']",LILOG-Report
+Differential Closure Computation for General Horn-Clause Queries,1991,"['Thomas Ludwig 0001', 'Stefan Benzschawel', 'Erich Gehlen']",IWBS Report
+Ein Fact Manager zur persistenten Speicherung variabel strukturierter komplexer Objekte,1988,"['Egon B', 'Michael Ley']",LILOG-Report
+M,1991,"['Roland Seiffert', 'Gisela Sch']",IWBS Report
+LMT - Machine Translation Demonstration,1991,"['Stefan B', 'Ulrike Schwall']",IWBS Report
+Implementation Aspects of a Natural Language Understanding System in a Prolog/DB Environment,1986,"['Rudi Studer', 'Bernd Walter']",LILOG-Report
+Sort Processing in a Deductive Database System,1991,"['Albert Maier', 'Michael Ley', 'Erich Gehlen']",IWBS Report
+EFTA: A Database Retrieval Algebra for Feature Terms,1991,"['Thomas Ludwig 0001', 'Bernd Walter']",IWBS Report
+Knowledge in Operation,1991,"['Toni Bollinger', 'Udo Pletat']",IWBS Report
+ber Ans,1988,"['Christoph Beierle', 'Carola Eschenbach']",LILOG-Report
+Attributive Concept Descriptions with Unions and Complements,1989,"['Manfred Schmidt-Schau', 'Gert Smolka']",IWBS Report
+Simulation Sprachlichen Verstehens: Generelle Probleme bei der semantischen Interpretation der nat,1986,"['Hans-Joachim Goltz', 'Claus-Rainer Rollinger']",LILOG-Report
+Konzeption und Implementierung von Gleichheit f,1992,"['Otthein Herzog', 'Bernhard Beckert']",IWBS Report
+PROTOS-L: Towards a Knowledge Base Programming Language,1989,"['Christoph Beierle', 'Stefan B']",IWBS Report
+"On the Interpretation of Equality, Sorts, and Logic Programming",1987,"['Stefan J. Schierholz', 'Christoph Beierle', 'Udo Pletat']",LILOG-Report
+Prozedurale Semantik. Repr,1991,"['Birgit Wendholt', 'Gudrun Klose']",IWBS Report
+Elsa,1988,"['Michael Herweg', 'Mohammed Nadjib Khenkhar', 'Simone Pribbenow', 'Klaus Rehk']",LILOG-Memo
+Zur Behandlung komplexer Objekte in LILOG,1987,"['Anja Theuner', 'Brigitte Bartsch-Sp']",LILOG-Memo
+Semantics of Logic Programs with Equational Abstract Data Type Specifications,1988,"['Peter H. Schmitt', 'Christoph Beierle', 'Udo Pletat']",LILOG-Report
+A Reusable Lexical Database Tool for Machine Translation,1992,"['Claudia Maienborn', 'Brigitte Bl', 'Ulrike Schwall', 'Angelika Storrer']",IWBS Report
+Parenthetische Konstruktionen des Deutschen.,1991,"['Esther K', 'Claudia Mrotzek']",IWBS Report
+An Approach to Manage Large Inheritance Networks,1987,"['Birgit Wesche', 'Stefan B', 'Rudi Studer']",LILOG-Report
+Eine dreiwertige Logik zur Verarbeitung partieller Information,1987,"['Lutz Voelkel', 'Peter H. Schmitt']",LILOG-Report
+Aspekte der Generierung von Wegbeschreibungen,1991,"['Stefan B', 'Kai-Uwe Carstensen']",IWBS Report
+Das Projekt EXCEPT: Expert-System for Computer-Aided Environmental Planning Tasks,1990,"['Ulrike Weiland', 'Martin H']",IWBS Report
+A Formal Operational Semantics for PROLOG III: Using Dynamic Algebras,1990,"['Egon B', 'Peter H. Schmitt']",IWBS Report
+Mathematische Grundlagen der formalen Linguistik - Ein Kompendium,1990,"['Michael Czymmeck', 'Michael Tarnowski']",IWBS Report
+Die Struktur des Lexikons f,1988,"['Helmar Gust', 'Petra Ludewig', 'Mechthild Rickheit']",LILOG-Report
+Die Konzeption des EXCEPT-Systems: Ein ,1990,"['Martin H', 'Kai von Luck', 'Ulrike Weiland']",IWBS Report
+Vor,1988,"['Elisabeth Neugebauer', 'Mohammed Nadjib Khenkhar']",LILOG-Report
+Fully Persistent B,1990,"['Sitaram Lanka', 'Eric Mays']",IWBS Report
+Database Snapshots.,1980,"['Petra Maier', 'Michel E. Adiba', 'Bruce G. Lindsay 0001']","Research Report / RJ / IBM / San Jose, California"
+Datenbankunterst,1987,"['Birgit Wesche', 'Stefan B']",LILOG-Report
+"Die Ontologie und Axiomatik der Wissensbasis von LEU/2 - Erfahrungen, Probleme, Ausblicke",1991,"['Gudrun Klose', 'Ewald Lang', 'Thomas Pirlein']",IWBS Report
+Zur intelligenten Organisation von Wissensbest,1989,"['Gerd Kort', 'Ipke Wachsmuth']",IWBS Report
+The Semantics of Asserting and Retracting Clauses to Logic Programs,1987,"['Udo Pletat', 'Christoph Beierle']",LILOG-Report
+Correctness Proof for the WAM,1991,"['Christoph Beierle', 'Egon B']",IWBS Report
+Word Order and Focus Projection,1987,"['Birgit Wesche', 'Ingrid Renz']",LILOG-Report
+Improving the Concurrency of Integrity Checks and Write Operations,1990,"['Kai von Luck', 'Stefan B']",IWBS Report
+Ereignisse: Ihre Logik und Ontologie aus textsemantischer Sicht,1991,"['Noam Paz', 'Kurt Eberle']",IWBS Report
+Der LILOG-DB Fact Manager: Ein Datenbankkern zur Speicherung variabel strukturierter komplexer Objekte,1989,"['Michael Ley', 'Bernd Walter']",IWBS Report
+Logisches Clustering von PROTOS-L Prozeduren,1988,"['Gregor Erbach', 'Christos Garidis']",LILOG-Report
+Multiword Lexemes: A Monolingual and Contrastive Typology for NLP and MT,1992,"['Jennifer Brundage', 'Maren Kresse', 'Ulrike Schwall', 'Angelika Storrer']",IWBS Report
+Quantitative Analysen zu W,1991,"['Toni Bollinger', 'Stefan J. Schierholz', 'Eric Windisch']",IWBS Report
+The LILOG Knowledge Representation System,1991,"['Gregor Erbach', 'Toni Bollinger', 'Udo Pletat']",IWBS Report
+The Gamma-0 n-ary Relational Data Base Interface Specifications of Objects and Operations.,1973,"['Peter Gerstl', 'Dines Bj', 'E. F. Codd', 'Kenneth L. Deckert', 'Irving L. Traiger']","Research Report / RJ / IBM / San Jose, California"
+Position und Bewegung: Zur Semantik lokaler Verben,1990,"['Ulrike Rackow', 'Claudia Maienborn']",IWBS Report
+A WAM Extension for Type-Constraint Logic Programming: Specification and Correctness Proof,1991,"['Sonja M', 'Christoph Beierle', 'Egon B']",IWBS Report
+Lernverfahren zur Vervollst,1989,"['Rolf Mayer', 'R']",IWBS Report
+"Zum Begriff ""Argumentstruktur"" im Rahmen generativer worbildungstheoretischer Ans",1988,"['Holger M. Wittmann', 'Mechthild Rickheit']",LILOG-Report
+The Term Retrieval Abstract Machine,1991,"['Jan Wilms', 'Michael Ley']",IWBS Report
+Syntaktische Analysevorschl,1992,"['Kai Lebeth', 'Bernd Abb']",IWBS Report
+Ein Transaktionskonzept f,1987,"['Gert Smolka', 'J']",LILOG-Memo
+Disjunctive Unification,1990,"['Andreas Eisele 0001', 'Jochen D']",IWBS Report
+On the Role of Reasoning about Change in the Projection of Presuppositions,1992,"['Rainer B', 'Sven Lorenz']",IWBS Report
+A Brief Overlook of LILOG-DB,1989,"['Egon B', 'Thomas Ludwig 0001']",IWBS Report
+RENDEZVOUS Version 1: An Experimental English Language Query Formulation System for Casual Users of Relational Data Bases.,1978,"['Michael Klein', 'E. F. Codd', 'Robert S. Arnold', 'Jean-Marc Cadiou', 'Chin-Liang Chang', 'Nick Roussopoulos']","Research Report / RJ / IBM / San Jose, California"
+Tableau Calculus for Order Sorted Logic,1990,"['Tibor Kiss', 'Peter H. Schmitt', 'Wolfgang Wernecke']",IWBS Report
+Sort-Lattice Management in LILOG-DB,1989,"['Roland Seiffert', 'Albert Maier']",IWBS Report
+Sorted Feature Terms and Relational Dependencies,1991,"['Jochen D', 'Roland Seiffert']",IWBS Report
+Reasoning for Text Understanding - Knowledge Processing in the 1st LILOG-Prototype,1989,"['Toni Bollinger', 'Ulrich Hedtst', 'Claus-Rainer Rollinger']",IWBS Report
+Zur Syntax pr,1989,"['Petra Maier', 'Petra Steffens']",IWBS Report
+Wissensbasisverwaltung f,1988,"['Helmar Gust', 'Manfred Grothaus']",LILOG-Report
+Erweiterung der Wissensrepr,1989,"['Esther K', 'Karin Klabunde']",IWBS Report
+Index Path Length Evaluation for the Research Storage System of System R.,1980,"['Karl Dotzek', 'Sai Choi Kwan', 'H. Raymond Strong']","Research Report / RJ / IBM / San Jose, California"
+Operationen in erweiterten Typunifikationsformalismen,1988,"['Stefan J. Schierholz', 'Roland Seiffert']",LILOG-Report
+Statistische Untersuchungen an einsprachigen Zeitungstexten,1992,"['Kai-Uwe Carstensen', 'Nikolaus Ott']",IWBS Report
+LILOG - Linguistische und logische Methoden f,1986,"['Otthein Herzog', 'Claus-Rainer Rollinger', 'Peter H. Schmitt', 'Petra Steffens', 'Rudi Studer', 'Birgit Wesche', 'Brigitte Bartsch-Sp', 'F. G', 'Christopher Habel', 'Siegfried Kanngie', 'Christian Rohrer']",LILOG-Report
+Syntaktische Merkmale deutsche Substantive,1992,"['Peter H. Schmitt', 'Stefan J. Schierholz']",IWBS Report
+Untersuchung zur verteilten Produktionsplanung mit Methoden der logischen Programmierung,1992,"['Elisabeth Breidt', 'Oliver Wauschkuhn']",IWBS Report
+Stepwise Software Development with Algebraic Specifications,1990,"['Christoph Beierle', 'Angi Vo']",IWBS Report
+The Knowledge Representation Language L,1988,"['Christoph Beierle', 'Christoph Beierle', 'Jochen D', 'Udo Pletat', 'Claus-Rainer Rollinger', 'Peter H. Schmitt', 'Rudi Studer']",LILOG-Report
+The Stuttgart Type Unification Formalism - User Manual,1991,"['Kurt Eberle', 'Jochen D', 'Ingo Raasch']",IWBS Report
+ILFA Interface Concept,1991,"['Claudia Maienborn', 'Bernd I. Dahn', 'Theodor Lettmann', 'Wolfgang Sch']",IWBS Report
+Transactions and Consistency in Distributed Database Systems.,1979,"['Irving L. Traiger', 'Jim Gray 0001', 'Cesare A. Galtieri', 'Bruce G. Lindsay 0001']","Research Report / RJ / IBM / San Jose, California"
+Knowledge Representation in LILOG,1989,"['Udo Pletat', 'Kai von Luck']",IWBS Report
+Using Knowledge-Based Methods to Administrate an Access Control System,1992,"['Egon B', 'Christoph Lingenfelder', 'Astrid Schm']",IWBS Report
+Integration von Constraints in die L,1989,"['Simone Pribbenow', 'Joachim Maier']",IWBS Report
+Pluralbehandlung in nat,1989,"['Klaus Rehk', 'Hinrich Sch']",IWBS Report
+An Order-Sorted Logic for Knowledge Representation Systems,1990,"['Christoph Beierle', 'Ulrich Hedtst', 'Udo Pletat', 'Peter H. Schmitt', 'J']",IWBS Report
+Persistence and Justified Causation: Some Remarks on Nonmonotonic Temporal Reasoning,1991,"['Petra Ludewig', 'Sven Lorenz']",IWBS Report
+Database Support for the PROTOS-L System,1989,"['Stefan B', 'Christoph Beierle']",IWBS Report
+Koordination von nichtverbalen Satzkonstituenten,1989,"['Herbert J. Leass', 'Ingrid Renz']",IWBS Report
+A Conceptual Model for Time,1986,"['Thomas Ludwig 0001', 'Rudi Studer']",LILOG-Report
+Qualit,1988,"['Jan Wilms', 'Christoph Beierle', 'Walter G. Olthoff', 'Angi Vo']",LILOG-Report
+Feature Graphs and Abstract Data Types: A Unifying Approach,1988,"['Christoph Beierle', 'Udo Pletat']",LILOG-Report
+The Many-Valued Theorem Prover ,1992,"['Reiner H', 'Bernhard Beckert', 'Stefan Gerberding', 'Werner Kernig']",IWBS Report
+A Feature Logic with Subsorts,1988,"['Thomas Pirlein', 'Gert Smolka']",LILOG-Report
+Draft Report of the Logic Programming Language PROTOS-L,1991,"['Christoph Beierle', 'Stefan B', 'Gregor Meyer']",IWBS Report
+EFTA Query Processing in LILOG-DB,1989,"['Thomas Ludwig 0001', 'Erich Gehlen']",IWBS Report
+Compilation of Complex DATALOG with Stratified Negation,1989,"['Andreas Arning', 'Thomas Ludwig 0001']",IWBS Report
+An Order Sorted Predicate Logic with Closely Coupled Taxonomic Information,1989,"['Simone Pribbenow', 'Christoph Beierle', 'Ulrich Hedtst', 'Udo Pletat', 'J']",IWBS Report
+Representation and Reasoning with Attributive Descriptions,1989,"['Raymond A. Lorie', 'Bernhard Nebel', 'Gert Smolka']",IWBS Report
+Ein modularer Ansatz f,1990,"['Petra Schulz', 'Sebastian Millies']",IWBS Report
+OSKAR - A PROLOG Programm for Modelling Dimensional Designation and Positional Variation of Objects in Space,1990,"['Kurt Eberle', 'Ewald Lang', 'Kai-Uwe Carstensen']",IWBS Report
+Extending the Warren Abstract Machine to Polymorphic Order-Sorted Resolution,1991,"['Christoph Beierle', 'Gregor Meyer', 'Heiner Semle']",IWBS Report
+Textunderstanding in LILOG - Sorts and Reference Objects,1987,"['Claus-Rainer Rollinger', 'Rudi Studer', 'Hans Uszkoreit', 'Ipke Wachsmuth']",LILOG-Report
+Prozedurale Aspekte der Wegplanung und Wegbeschreibung,1987,"['Anne Schiller', 'Christopher Habel']",LILOG-Report
+"Projekt ""Elektronische W",1990,"['Brigitte Bl', 'M. Wermke']",IWBS Report
+Resolution with Feature Unification,1988,"['Thomas Ludwig 0001', 'Karl-Hans Bl', 'Ulrich Hedtst']",LILOG-Report
+Erster EXCEPT-Workshop: Computerunterst,1990,"['Elke Busch', 'J', 'R. Zieschank', 'D. Marx', 'P. Klug-Lier', 'Bernd Page', 'Ulrike Weiland', 'D. Eberle']",IWBS Report
+A Calculus for Order-Sorted Predicate Logic with Sort Literals,1989,"['Volker Jantzen', 'Ulrich Hedtst', 'Peter H. Schmitt']",IWBS Report
+Persistente Datenspeicherung in einer logischen Programmiersprache mit relationalen und deduktiven Datenbanken,1992,"['Gregor Meyer', 'Christoph Beierle', 'Ralph Scheubrein']",IWBS Report
+On Subsumption and Semiunifaction in Feature Algebras,1989,"['Ralph Scheubrein', 'Jochen D', 'William C. Rounds']",IWBS Report
+An Effective Representation of Complex Clauses in a Relational Database,1988,"['Bernhard Nebel', 'Kurt Rothermel']",LILOG-Report
+Prolog and Natural Language Processing,1992,"['Roland Seiffert', 'Esther K']",IWBS Report
+An Anaphora Resolution Procedure for Machine Translation,1991,"['Herbert J. Leass', 'Ulrike Schwall']",IWBS Report
+Verarbeitung von Vagheits- und Unsicherheitsbewertungen: Tools f,1988,"['Bart Geurts', 'Josef Gemander']",LILOG-Memo
+Integrating a Deductive Database System with a Warren Abstract Machine,1990,"['Thomas Ludwig 0001', 'Stefan B']",IWBS Report
+Ein neuer Ansatz zur Integration unterschiedlicher lexikalischer Resourcen,1991,"['Wilfried H', 'Petra Ludewig']",IWBS Report
+Zeit und Aspekt bei der Verarbeitung nat,1987,"['Karel Oliva', 'Uwe Reyle']",LILOG-Report
+"ber die W's der Textgenerierung: Was, wof",1991,"['Reiner H', 'Jutta Krei']",IWBS Report
+THOR - A System for Computing in Equational Theories,1992,"['Udo Pletat', 'Wolfgang Wernecke']",IWBS Report
+Vertr,1988,"['Gregor Erbach', 'Simone Pribbenow']",LILOG-Report
+A Tool Kit for Knowledge Based Production Planning Systems,1990,"['Michael Tarnowski', 'Stefan B']",IWBS Report
+Semantische Repr,1992,"['Mechthild Rickheit', 'J']",IWBS Report
+Modelling Spatial Knowledge on a Linguistic Basis,1990,"['Karl Schlechta', 'Ewald Lang', 'Kai-Uwe Carstensen', 'Geoffrey Simmons']",IWBS Report
+Rule Rewriting Techniken zur globalen Optimierung von FLL-Programmen,1989,"['Udo Pletat', 'Thomas Ludwig 0001', 'Arne Pott']",IWBS Report
+"Presupposition, Anaphora, and Lexical Content.",1991,"['Tibor Kiss', 'Rob A. van der Sandt', 'Bart Geurts']",IWBS Report
+A Shared Segment and Interprocess Communication Facility for VM/370,1975,"['Stefan B', 'Jim Gray 0001', 'Vera Watson']","Research Report / RJ / IBM / San Jose, California"
+The Algebra of Feature Graph Specifications,1989,"['Adrian M', 'Christoph Beierle', 'Udo Pletat']",IWBS Report
+A Persistent Store for Large Shared Knowledge Bases,1990,"['Eric Mays', 'Sitaram Lanka', 'Robert Dionne', 'Robert A. Weida']",IWBS Report
+Gebietskonstituierende Prozesse,1988,"['Peter Bosch', 'Christopher Habel', 'Simone Pribbenow']",LILOG-Report
+Slide Search.,1978,"['H. Raymond Strong', 'Irving L. Traiger', 'George Markowsky']","Research Report / RJ / IBM / San Jose, California"
+Weiterentwicklung des Earley-Algorithmus f,1987,"['Egon B', 'Jochen D']",LILOG-Report
+Graph Based Extension of the LILOG Inference Engine,1992,"['Bernhard Nebel', 'Stefan Bayerl', 'Karl-Hans Bl']",IWBS Report
+A Model for Discourse Particles,1988,"['G', 'Kjell Johan S']",LILOG-Report
+Transitive Closure: New Aspects of an Old Theme,1991,"['Roland Seiffert', 'Stefan Benzschawel']",IWBS Report
+Die Sloppy/Referenzielle Ambiguit,1988,"['Ipke Wachsmuth', 'Jean-Yves Lerner', 'Ulrich Schatz']",LILOG-Report
+LILOG Prototype I Grammar Documentation: Semantics,1988,"['Jan Wilms', 'Gosse Bouma']",LILOG-Memo
+Using a Structured English Query Language as a Data Definition Facility.,1973,"['Bernd Walter', 'Raymond F. Boyce', 'Donald D. Chamberlin']","Research Report / RJ / IBM / San Jose, California"
+The Compilation of a High Level Data Language.,1979,"['Raymond A. Lorie', 'Bradford W. Wade']","Research Report / RJ / IBM / San Jose, California"
+Stability Analysis of Wireless Networks,1998,"['Karin Neuhold', 'Richard R']",Universit
+Finding Scientific Papers with HPSearch and MOPS,1999,"['Gerd Hoff', 'Martin Mundhenk']",Universit
+VisBDD - A Webbased Visualization Framework for OBDD Algorithms,2001,"['Manfred Laumen', 'Christoph Meinel', 'Harald Sack', 'Volker Schillings']",Universit
+A Parametric View to the Mangasarian-Fromovitz Constraint Qualification,1996,"['Carsten Damm', 'Martin Gugat']",Universit
+Trust Region Methods for Solving the Optimal Output Feedback Design Problem,2000,"['Nguyen V. Thoai', 'Friedemann Leibfritz', 'El-Sayed M. E. Mostafa']",Universit
+Nonuniform Grids for Reduced Basis Design of Low Order Feedback Controllers for Nonlinear Continuous Systems,1997,"['Nguyen V. Thoai', 'Belinda B. King']",Universit
+Approximation of the Newton Step by a Defect Correction Process,1999,"['E. Arian', 'A. Battermann', 'Ekkehard W. Sachs']",Universit
+Polytope Containment and Determination by Linear Probes,1992,"['Peter Gritzmann', 'Victor Klee', 'John Westwater']",Universit
+Convolution Algorithms for BMAP/G/1-Queues,1996,"['Dieter Baum', 'Dieter Baum']",Universit
+tele-TASK - Teleteaching Anywhere Solution Kit,2002,"['Christoph Meinel', 'Volker Schillings']",Universit
+On the Complexity of Constructing Optimal OBDD's,1994,"['Florian Jarre', 'Christoph Meinel', 'Anna Slobodov']",Universit
+Numerical Solution of Control Problems under Uncertainty and Perturbation of Input Data with Applications in Finance,2000,"['Rainer Tichatschke', 'Alexander Kaplan', 'Tim Voetmann', 'M. B']",Universit
+R,2003,"['Manfred Laumen', 'Dieter Baum']",Universit
+Fast Generation of Random Permutations via Networks Simulation,1996,"['Artur Czumaj', 'Przemyslawa Kanarek', 'Miroslaw Kutylowski', 'Krzysztof Lorys']",Universit
+Condensing Tensor Product Modules,1996,"['Klaus Jansen', 'Klaus Lux', 'Markus Wiegelmann']",Universit
+Interprocedural Analysis Based on PDAs,1997,"['Manfred Laumen', 'Helmut Seidl', 'Christian Fecht']",Universit
+Mod-2-OBDD's: A Generalization of OBDD's and EXOR-Sum-of-Products,1993,"['Klaus Jansen', 'Jordan Gergov', 'Christoph Meinel']",Universit
+A Heuristic for (+)-OBDD Minimization,2001,"['Christoph Meinel', 'Harald Sack']",Universit
+Numerical Solution of a Semilinear Parabolic Control Problem,1992,"['Harald Luschgy', 'Matthias Heinkenschloss']",Universit
+Structural Gr,1996,"['Bernd Sturmfels', 'Markus Wiegelmann']",Universit
+Do We Really Need Common Variable Orders for Synthesizing OBDDs?,1998,"['Martin Gugat', 'Christoph Meinel', 'Harald Sack', 'Christian Stangier', 'Arno Wagner']",Universit
+Lagrange-Duality and Partitioning Techniques in Nonconvex Global Optimization,1996,"['Mirjam D', 'Reiner Horst']",Universit
+Two Program Comprehension Tools for Automatic Parallelization: A Comparative Study,1997,"['Beniamino Di Martino', 'Christoph W. Ke']",Universit
+Implement Role-Based Access Control with Attribute Certificates,2003,"['Wei Zhou 0006', 'Christoph Meinel']",Universit
+Approximate Analysis of Multi-Queue Stations with 1-Limited Service,1994,"['Richard R', 'Dieter Baum']",Universit
+Circuit and Decision Tree Complexity of Some Number Theoretic Problems,1998,"['Anna Bernasconi 0001', 'Carsten Damm', 'Igor E. Shparlinski']",Universit
+A Decomposition Algorithm for Optimization over Efficient Sets,1997,"['Reiner Horst', 'Le Dung Muu', 'Nguyen V. Thoai']",Universit
+On the Queue-Length-Distributions of the E,1992,"['Christoph W. Ke', 'Kasyap Natarajan']",Universit
+On Generic One-Parametric Semi-Infinite Optimization,1995,"['Hubertus Th. Jongen', 'Oliver Stein']",Universit
+A Branch-and-Bound Decomposition Approach for Solving Quasiconvex-Concave Programs,1993,"['Reiner Horst', 'Le Dung Muu', 'M. Nast']",Universit
+Newton's Method for a Class of Optimal Shape Design Problems,1996,"['Lothar Breuer', 'Manfred Laumen']",Universit
+A Generic Background Dissemination Service for Mobile Ad-Hoc Networks,2004,"['Hannes Frey', 'Johannes K. Lehnert', 'Daniel G', 'Peter Sturm 0001']",Universit
+Personal Name Matching: New Test Collections and a Social Network based Approach.,2006,"['Klaus Jansen', 'Patrick Reuther']",Universit
+Utility Function Programs and Optimization over the Efficient Set in Multiple Objective Decision Making,1996,"['Reiner Horst', 'Nguyen V. Thoai']",Universit
+Structured Quasi-Newton Methods for Optimization Problems in Hilbert Space,1992,"['E. Levitin', 'J']",Universit
+Unambiguity of SMGL Content Models - Pushdown Automata Revisited,1997,"['Marco Fahl', 'Andreas Neumann 0001']",Universit
+Ordered Binary Decision Diagrams in Electronic Design Automation,2002,"['Nguyen V. Thoai', 'Randal E. Bryant', 'Christoph Meinel']",Universit
+Simultaneous Pseudo-Timestepping for PDE-model Based Optimization Problems,2002,"['Subhendu Bikash Hazra', 'Volker Schulz 0001']",Universit
+Mod-p Decision Diagrams: A Data Structure for Multiple-Valued Functions.,1999,"['Harald Sack', 'Elena Dubrova', 'Christoph Meinel']",Universit
+Zur strukturellen Stabilit,1995,"['Horst Schmitt', 'Dieter Baum']",Universit
+Increasing Efficiency of Symbolic Model Checking by Accelerating Dynamic Variable Reordering,1998,"['Christoph Meinel', 'Christian Stangier']",Universit
+External Tangents and Closedness of Cone + Subspace,1993,"['Dieter Baum', 'Peter Gritzmann', 'Victor Klee']",Universit
+Block-Restricted Reordering - Extended Experiments,1997,"['Christoph Meinel', 'Anna Slobodov', 'Peter Willems']",Universit
+On Graph Models for Communicating Mobiles in Access Areas,2001,"['Dieter Baum', 'Igor N. Kovalenko']",Universit
+On the Reconstruction of Binary Images from Their Discrete Radon Transforms,1996,"['R. J. Gardner', 'Peter Gritzmann', 'Dieter Prangenberg']",Universit
+On the Complexity of some Basic Problems in Computational Convexity: 1. Containment Problems,1993,"['Peter Gritzmann', 'Victor Klee']",Universit
+Linearly Constrained Global Minimization of Functions with Concave Minorants,1996,"['Reiner Horst', 'M. Nast']",Universit
+Stochastic Simulation of Markov Modulated Finite-Source Queues,1999,"['J', 'Oliver M']",Universit
+WWW.BDD-PORTAL.ORG: An Experimentation Platform for Binary Decision Diagram Algorithms,2001,"['Ulrich Hertrampf', 'Christoph Meinel', 'Harald Sack', 'Arno Wagner']",Universit
+Stochastic Modeling of Server Capacity Utilization by Geometric Sums,1998,"['Lothar Breuer', 'Richard R']",Universit
+tele-TASK - Teleteaching praxistauglich f,2003,"['Christoph Meinel', 'Volker Schillings']",Universit
+Polytope Projection and Projection Polytopes,1995,"['Thomas Burger', 'Peter Gritzmann', 'Victor Klee']",Universit
+Proximal Methods in View of Interior-Point-Strategies,1995,"['Alexander Kaplan', 'Rainer Tichatschke']",Universit
+Some Heuristics for Generating Tree-like FBDD Types,1994,"['Jochen Bern', 'Christoph Meinel', 'Anna Slobodov']",Universit
+Propagating Differences: An Efficient New Fixpoint Algorithm for Distributive Constraint Systems,1997,"['Helmut Seidl', 'Christian Fecht']",Universit
+Global Convergence of Inexact Reduced SQP Methods,1995,"['Heidi J', 'Ekkehard W. Sachs']",Universit
+Scheduling of Virtual Connections in Fast Networks,1996,"['Thomas Erlebach', 'Klaus Jansen']",Universit
+Discrete Tomography: Determination of Finite Sets by X-Rays,1995,"['Friedemann Leibfritz', 'R. J. Gardner', 'Peter Gritzmann']",Universit
+Determination of Socle Series using the Condensation Method,1996,"['Lothar Breuer', 'Klaus Lux', 'Markus Wiegelmann']",Universit
+Minkowski Addition of Polytopes: Computational Complexity and Applications to Gr,1992,"['Peter Gritzmann', 'Bernd Sturmfels']",Universit
+Succinct Solvers,2001,"['Flemming Nielson', 'Helmut Seidl']",Universit
+Interior Proximal Method for Variational Inequalities: Case of Non-paramonotone Operators,2001,"['Alexander Kaplan', 'Rainer Tichatschke']",Universit
+An Optimal Greedy Algorithm for Wavelength Allocation in Directed Tree Networks,1997,"['Thomas Erlebach', 'Klaus Jansen']",Universit
+On Product Connection Theorems for Markov Chains,2001,"['Dieter Baum', 'Gurami Tsitsiashvili']",Universit
+The WWW meets EDA: Usability evaluation of OBDD-heuristics via the Internet,1998,"['Christoph Meinel', 'Arno Wagner']",Universit
+A Decomposition Approach for the Global Minimization of Biconcave Functions over Polytopes,1993,"['Reiner Horst', 'Nguyen V. Thoai']",Universit
+Application Driven Variable Reordering and an Example in Reachability Analysis,1998,"['Patrick Justen', 'Christoph Meinel', 'Klaus Schwettmann', 'Anna Slobodov']",Universit
+Convergent Outer Approximation Algorithms for Solving Unary Problems,1996,"['Reiner Horst', 'Ulrich Raber']",Universit
+Linear Sifting of Decision Diagrams,1996,"['Christoph Meinel', 'Fabio Somenzi', 'Thorsten Theobald']",Universit
+A Branch and Bound Approach for Solving a Class of Generalized Semi-Infinite Programming Problems,1996,"['E. Levitin', 'Rainer Tichatschke']",Universit
+Convergence Results on Proximal Method of Multipliers in Nonconvex Programming,1998,"['Dirk Frosch', 'Abdelouahed Hamdi']",Universit
+An EM Algorithm for Platoon Arrival Processes in Discrete Time,2002,"['Carsten Damm', 'Attahiru Sule Alfa', 'Lothar Breuer']",Universit
+On Multiplicative Structure in Quasi-Newton Methods for Nonlinear Equations,1992,"['Matthias Heinkenschloss', 'J']",Universit
+State Encodings and OBDD-Sizes,1996,"['Thorsten Theobald', 'Christoph Meinel']",Universit
+Functional Quantization and Small Ball Probabilities for Gaussian Processes,2002,"['Siegfried Graf', 'Harald Luschgy']",Universit
+Parallel versus Sequential Task-Processing: A New Performance Model in Discrete Time,1996,"['Jens Hofmann 0001', 'Norbert Th. M', 'Kasyap Natarajan']",Universit
+Generalized Semi-Infinite Optimization: A First Order Optimality Condition and Examples,1995,"['Kasyap Natarajan', 'Hubertus Th. Jongen', 'Jan-J. R', 'Oliver Stein']",Universit
+One Strike Against the Min-Max Degree Triangulation Problem,1992,"['Horst Schmitt', 'Klaus Jansen']",Universit
+10 Jahre ECCC - Eine Digitale Bibliothek in weltweiter Benutzung,2004,"['Volker Klotz', 'Christoph Meinel']",Universit
+Locating Matches of Tree Patterns in Forests,1998,"['Andreas Neumann 0001', 'Helmut Seidl']",Universit
+Proximal Interior Point Approach for Solving Convex Semi-infinite Programming Problems,1998,"['Richard R', 'Alexander Kaplan', 'Rainer Tichatschke']",Universit
+Optimal Allocation of Jobs between Heterogeneous Servers in the Retrial MAP/PH/K Queue,2002,"['Carsten Damm', 'Dimitri Efrosinin', 'Lothar Breuer', 'Vladimir Rykov']",Universit
+Scheduling with Incompatible Jobs,1992,"['Hans L. Bodlaender', 'Klaus Jansen', 'Gerhard J. Woeginger']",Universit
+Stochastic Constraint Aggregation Method for Convex Semi-Infinite Problems,1997,"['Jens Hofmann 0001', 'Michael Ruvimovich Davidson']",Universit
+A Lagrangian Method for Solving the Optimal Output Feedback Design Problem,2000,"['El-Sayed M. E. Mostafa', 'Ekkehard W. Sachs']",Universit
+Upper and Lower Bounds for Certain Graph-Accessability-Problems on Bounded Alternating (omega)-Branching Programs,1992,"['Christoph Meinel', 'Stephan Waack']",Universit
+Efficient OBDD-Based Boolean Manipulation in CAD Beyond Current Limits,1994,"['Jochen Bern', 'Christoph Meinel', 'Anna Slobodov']",Universit
+Forward and Inverse Problems in Modeling of Multiphase Flow and Transport Through Heterogeneos Porous Media,2002,"['Subhendu Bikash Hazra', 'Holger Class', 'Rainer Helmig', 'Volker Schulz 0001']",Universit
+A Tool for Simulation of Markov Modulated Finite-Source Queueing Systems,1999,"['Richard R', 'J', 'Oliver M']",Universit
+Symmetric Functions in AC,1993,"['Carsten Damm', 'Katja Lenz']",Universit
+On the Algorithmic Complexity of Minkowski's Reconstruction Theorem,1995,"['Peter Gritzmann', 'Alexander Hufnagel']",Universit
+Integrating Synchronous and Asynchronous Paradigms: The Fork95 Parallel Programming Language,1995,"['Christoph W. Ke', 'Helmut Seidl']",Universit
+Algorithmic Considerations for +-OBDD Reordering.,1999,"['Christoph Meinel', 'Harald Sack']",Universit
+Auxiliary Problem Principle and Proximal Point Methods,1999,"['Helmut Seidl', 'Alexander Kaplan', 'Rainer Tichatschke']",Universit
+Largest j-Simplices in n-Polytopes,1994,"['Peter Gritzmann', 'Victor Klee', 'David G. Larman']",Universit
+The Complexity of Detecting Crossingfree Configurations in the Plane,1992,"['Klaus Jansen', 'Gerhard J. Woeginger']",Universit
+Weak Error Tolerance Criterion in Generalized Proximal Methods,2002,"['Dieter Baum', 'Alexander Kaplan', 'Rainer Tichatschke']",Universit
+Modular Partitioning for Improvement of Image Computation,2001,"['Christoph Meinel', 'Christian Stangier']",Universit
+Convergence Rate of the Augmented Lagrangian SQP Method,1995,"['Klaus Jansen', 'D. Kleis', 'Ekkehard W. Sachs']",Universit
+Generalized Coloring for Tree-like Graphs,1992,"['Christoph W. Ke', 'Klaus Jansen', 'Petra Scheffler']",Universit
+Proximal Interior Point Approach in Convex Programming,1996,"['E. Levitin', 'Alexander Kaplan', 'Rainer Tichatschke']",Universit
+Numerical Parameter Identification in Non-isothermal Multiphase Multicomponent Flow through Porous Media,2002,"['Subhendu Bikash Hazra', 'Volker Schulz 0001']",Universit
+Regularized Penalty Method for Parabolic Optimal Control Problems,1997,"['Alexander Kaplan', 'Rainer Tichatschke']",Universit
+A Unifying Theoretical Background for Some BDD-based Data Structures,1994,"['Ulrich Hertrampf', 'Christoph Meinel', 'Anna Slobodov']",Universit
+Non-quadratic Proximal Regularization with Application to Variational Inequalities in Hilbert Spaces,2001,"['Alexander Kaplan', 'Rainer Tichatschke']",Universit
+TI-jPACS - eine frei verf,2004,"['Stasys Jukna', 'Mikail Gevantmakher', 'Christoph Meinel']",Universit
+Computational Design of Optimal Output Feedback Controllers,1995,"['Tankred Rautert', 'Ekkehard W. Sachs']",Universit
+One Step Further: Integrating Electronic Submission and the Reviewing Process,1999,"['Jochen Bern', 'Christoph Meinel']",Universit
+Efficient Analysis and Manipulation of OBDDs can be Extended to Read-once-only Branching Programs,1992,"['Jordan Gergov', 'Christoph Meinel']",Universit
+Performance Analysis of SDN Specific Error Procedures: Comparison of Step-by-Step and End-to-End Schemes,1992,"['Dieter Baum', 'Luciano Lenzini']",Universit
+On Approximate Solution Methods for Multi-Queue Systems with 1-Limited Deterministic Service,1995,"['S. Rotin', 'Dieter Baum']",Universit
+Global Rebuilding of OBDD's - Tunneling Memory Requirement Maxima,1995,"['Jochen Bern', 'Christoph Meinel', 'Anna Slobodov']",Universit
+Ein Newtonverfahren zur zeitoptimalen Vibrationsd,1996,"['J', 'Martin Gugat']",Universit
+Optimal Static Output Feedback Design By Using a Trust Region Interior Point Method,2000,"['Friedemann Leibfritz', 'El-Sayed M. E. Mostafa']",Universit
+The SPARAMAT Approach to Automatic Comprehension of Sparse Matrix Computations,1999,"['Christoph W. Ke', 'Helmut Seidl', 'Craig Smith']",Universit
+No-Waiting Stations with Special Arrival Processes and Customer Motion,2002,"['Dieter Baum', 'Vladimir V. Kalashnikov']",Universit
+Proximal Methods: Decomposition and Selection,1998,"['Dieter Baum', 'N. Lehdili', 'C. Ould Ahmed Salem']",Universit
+IDDS: An Interactive Decentallzed Documentation System,2001,"['Christoph Meinel', 'Harald Sack', 'Volker Schillings']",Universit
+Function Decomposition and Synthesis Using Linear Sifting,1997,"['Lothar Breuer', 'Christoph Meinel', 'Fabio Somenzi', 'Thorsten Theobald']",Universit
+Language Support for Synchronous Parallel Critical Sections,1995,"['Friedemann Leibfritz', 'Christoph W. Ke', 'Helmut Seidl']",Universit
+The complexity of optimal small policies,1999,"['J', 'Martin Mundhenk']",Universit
+Separating Counting Communication Complexity Classes,1992,"['Carsten Damm', 'Matthias Krause 0001', 'Christoph Meinel', 'Stephan Waack']",Universit
+OBDD-based Verification of Communication Protocols - Methods for the Verification of Data Link Protocols,1997,"['Christoph Meinel', 'Christian Stangier']",Universit
+On Helly's Theorem: Algorithms and Extensions,1996,"['Andreas Brieden', 'Peter Gritzmann']",Universit
+On the Complexity of some Basic Problems in Computational Convexity: II. Volume and mixed volumes,1994,"['Peter Gritzmann', 'Victor Klee']",Universit
+Parameter Estimation for BMAPs,2000,"['Dieter Baum', 'Lothar Breuer', 'Marco Gilbert']",Universit
+Speeding up Variable Reordering of OBDDs.,1996,"['Christoph Meinel', 'Anna Slobodov']",Universit
+Representation of Feedback Operators for Hyperbolic Partial Differential Equation Control Problems,1996,"['Helmut Seidl', 'Belinda B. King']",Universit
+Efficient Manipulation of FBDDs by Means of a Modified OBDD-Package,1993,"['Lars Abbe', 'Anna Slobodov', 'Christoph Meinel']",Universit
+Exact XML Type Checking in Polynomial Time.,2006,"['Sebastian Maneth', 'Thomas Perst', 'Helmut Seidl']",Universit
+"Log-concavity and Inequalities for Chi-square, F and Beta Distributions with Applications in Multiple Comparisons",1996,"['Helmut Finner', 'Markus Roters']",Universit
+An Indefinite Preconditioner for KKT Systems Arising in Optimal Control Problems,2000,"['S. Rotin', 'A. Battermann', 'Ekkehard W. Sachs']",Universit
+Stochastic Models for Communication Networks with Moving Customers,2001,"['Friedemann Leibfritz', 'Dieter Baum', 'Vladimir V. Kalashnikov']",Universit
+Computational Complexity of Inner and Outer j-RADII of Polytopes in Finite-Dimensional Normed Spaces,1993,"['Peter Gritzmann', 'Victor Klee']",Universit
+Scheduling with Constrained Processor Allocation for Interval Orders,1992,"['Nguyen V. Thoai', 'Klaus Jansen']",Universit
+Some Bounds on Multiparty Communication Complexity of Pointer Jumping,1995,"['Carsten Damm', 'Stasys Jukna', 'Jir']",Universit
+Zum Gleichgewichtsverhalten von Markov-Prozessen,1998,"['Subhendu Bikash Hazra', 'Dieter Baum']",Universit
+Constraint Decomposition Algorithms in Global Optimization,1993,"['Klaus Jansen', 'Reiner Horst', 'Nguyen V. Thoai']",Universit
+A Product Theorem for Markov Chains with Application to PF-Queueing Networks,2001,"['Carsten Damm', 'Gurami Tsitsiashvili', 'M. A. Osipova', 'N. V. Koliev', 'Dieter Baum']",Universit
+On the Distribution of c,2002,"['Martin Gugat', 'Lothar Breuer']",Universit
+Phasentyp-Verteilungen und Matrix-analytische Methoden,1999,"['Oleg V. Khamisov', 'Dieter Baum']",Universit
+The Electronic Colloquium on Computational Complexity (ECCC): A Digital Library in Use,1997,"['Jochen Bern', 'Christoph Meinel']",Universit
+An Even Faster Solver for General Systems of Equations,1996,"['Christian Fecht', 'Helmut Seidl']",Universit
+Inductive Counting below LOGSPACE,1994,"['Carsten Damm', 'Markus Holzer 0001']",Universit
+Quantization for Probability Measures with Respect to the Geometric Mean Error,2002,"['Siegfried Graf', 'Harald Luschgy']",Universit
+Analysis and Manipulation of Boolean Functions in Terms of Decision Graphs,1992,"['Jordan Gergov', 'Christoph Meinel']",Universit
+An EM Algorithm for Batch Markovian Arrival Processes and its Comparison to a Simpler Estimation Procedure,2001,"['Dieter Baum', 'Lothar Breuer']",Universit
+Stable Methods for Variational Inequalities with Set Valued Monotone Operators,1997,"['Alexander Kaplan', 'Rainer Tichatschke']",Universit
+On Multiparity Games for Pointer Jumping,1995,"['Martin Mundhenk', 'Carsten Damm', 'Stasys Jukna']",Universit
+Interprocedural Invariants,2002,"['Helmut Seidl', 'Varmo Vene', 'Markus M']",Universit
+The M,1994,"['Christoph Meinel', 'Stephan Waack']",Universit
+A Note on M,1992,"['Klaus Jansen', 'Christoph Meinel']",Universit
+Lock-Keeper Technology - A New Network Security Solution,2003,"['Feng Cheng 0002', 'Paul Ferring', 'Christoph Meinel']",Universit
+Cascade: A Simple and Efficient Algorithm for Priority Queues,1994,"['Martin Luckow', 'Norbert Th. M']",Universit
+Efficient Boolean Manipulation with OBDD's can be Extended to FBDD's,1993,"['Jordan Gergov', 'Christoph Meinel']",Universit
+Case Study: Manipulating xor-OBDDs by Means of Signatures,1997,"['Christoph Meinel', 'Harald Sack']",Universit
+Operator-Geometric Solutions for the M/G/k Queue and its Variants,2000,"['Dirk Frosch-Wilke', 'Lothar Breuer']",Universit
+A New LP-Bound in Multivariate Lipschitz Optimization: Application to Unconstrained and Linearly Constrained Problems and to Systems of Inequalities,1994,"['Reiner Horst', 'M. Nast', 'Nguyen V. Thoai']",Universit
+Complexity of Finite-Horizon Markov Decision process Problems.,1999,"['Martin Mundhenk', 'Judy Goldsmith', 'Christopher Lusena', 'Eric Allender']",Universit
+Two short notes,2001,"['Stasys Jukna', 'Lothar Breuer']",Universit
+On Smoothing of Generalized max-Functions via epsilon-Regularization,1996,"['E. Levitin', 'Rainer Tichatschke']",Universit
+An Adequate Reducibility Concept for Problems Defined in Terms of Ordered Binary Decision Diagrams,1996,"['Christoph Meinel', 'Anna Slobodov']",Universit
+On Continuous Deformations of Semi-Infinite Optimization Problems,1994,"['Rainer Hettich', 'Hubertus Th. Jongen']",Universit
+Accelerating OBDD-Minimization by Means of Structural and Semantical Properties,1998,"['Christoph Meinel', 'Anna Slobodov']",Universit
+Distributed Script - A Mobile Application for Multi-hop Ad-hoc Networks,2006,"['Daniel G', 'Matthias Transier', 'Peter Sturm 0001', 'Wolfgang Effelsberg']",Universit
+On the Expressiveness of Tree Set Operators,2002,"['Helmut Seidl', 'Aditya V. Nori']",Universit
+On the Joint Distribution Functions of Order Statistics with Reference to Step-up Multiple Test Procedures,1993,"['Helmut Finner', 'Anthony J. Hayter', 'Markus Roters']",Universit
+Ordered Binary Decision Diagrams and Their Significance in Computer-Aided Design of VLSI Circuits,1998,"['Christoph Meinel', 'Thorsten Theobald']",Universit
+Polynomial Constants are Decidable,2002,"['Markus M', 'Helmut Seidl']",Universit
+On Generalized Bisection of N-Simplices,1996,"['Dieter Baum', 'Reiner Horst']",Universit
+An Integer Concave Minimization Approach for the Minimum Concave Cost Capacitated Flow Problem on Networks,1994,"['Reiner Horst', 'Nguyen V. Thoai']",Universit
+Scheduling and Related Graph Theoretical Problems,1993,"['Christoph W. Ke', 'Klaus Jansen']",Universit
+Computational Convexity,1996,"['Peter Gritzmann', 'Victor Klee']",Universit
+Approximation Algorithms for Register Allocation,1996,"['Richard R', 'Klaus Jansen', 'Joachim Reiter']",Universit
+Lower Bounds for Randomized Branching Programs with a Big OBDD Part,2000,"['Markus Roters', 'Rustam Mubarakzjanov']",Universit
+Inexact SQP Interior Point Methods and Large Scale Optimal Control Problems,1996,"['Friedemann Leibfritz', 'Ekkehard W. Sachs']",Universit
+Applying Formal Verification with Protocol Compiler,1999,"['Christian Stangier', 'Ulrich Holtmann']",Universit
+Finite Limits and Lower Bounds for Circuits Size,1994,"['Tim Voetmann', 'Stasys Jukna']",Universit
+Quantization for Probability Measures in the Prohorov Metric,2002,"['Carsten Damm', 'Siegfried Graf', 'Harald Luschgy']",Universit
+Xor-OBDDs - a BDD Structure for Probabilistic Verification,1998,"['Helmut Seidl', 'Christoph Meinel', 'Harald Sack']",Universit
+Polytopes in Combinatorial Optimization,1996,"['Thomas Burger', 'Peter Gritzmann']",Universit
+Medizinische Bildverarbeitung - eine ,2004,"['Mikail Gevantmakher', 'Christoph Meinel']",Universit
+Local Convergence of the Symmetric Rank-One Iteration,1995,"['C. T. Kelley', 'Ekkehard W. Sachs']",Universit
+Expressing Uniformity via Oracles,1995,"['Carsten Damm', 'Markus Holzer 0001', 'Peter Rossmanith']",Universit
+A Piecewise-Deterministic Model for Brownian Motion,2002,"['Friedemann Leibfritz', 'Lothar Breuer']",Universit
+Design and Implementation of a PHP-based Web Server for the Tele-Lab IT Security,2003,"['Michael Schmitt 0002', 'Christoph Meinel']",Universit
+A Phase Space Model for Spatial BMAPs,1998,"['Lothar Breuer', 'Richard R']",Universit
+Binary Decision Diagrams and the Multiple Variable Order Problem,1998,"['Gianpiero Cabodi', 'Stefano Quer', 'Christoph Meinel', 'Harald Sack', 'Anna Slobodov', 'Christian Stangier']",Universit
+Primal-Dual Contraint Aggregation Method in Multistage Stochastic Programming,1997,"['Ditmar Erdmann', 'Michael Ruvimovich Davidson']",Universit
+A Pre-Dual for the Convolution Algebra D'(Gamma+),1993,"['Volker Schmidt', 'Peter Dierolf']",Universit
+An Optimization Algorithm for the MAP/PH/K Queue with Heterogeneous Servers,2002,"['Dimitri Efrosinin', 'Lothar Breuer', 'Vladimir Rykov']",Universit
+Nonapproximability Results for Partially Observable Markov Decision Processes,2000,"['Martin Mundhenk', 'Christopher Lusena', 'Judy Goldsmith', 'Martin Mundhenk']",Universit
+Method for Global Optimization of Class of Nonlinear Bilevel Programming Problems,2002,"['Lothar Breuer', 'Paul B. Hermanns', 'Nguyen V. Thoai']",Universit
+Local Encoding Transformations for Optimizing OBDD-Representations of Finite State Machines,1996,"['Christoph Meinel', 'Thorsten Theobald']",Universit
+A new Algorithm for Solving the General Quadratic Programming Problem,1993,"['Reiner Horst', 'Nguyen V. Thoai']",Universit
+Die Entwicklung der Informatik braucht Theorie und Praxis: Ein Fallbeispiel aus dem CAD-Schaltkreisentwurf,1995,"['Markus R. Schmidt', 'Christoph Meinel']",Universit
+Simultaneous Pseudo-Timestepping for Aerodynamic Shape Optimization Problems with State Constraints,2004,"['Subhendu Bikash Hazra', 'Volker Schulz 0001']",Universit
+Combinational Logic Verification with FBDDs,1993,"['Jordan Gergov', 'Christoph Meinel']",Universit
+Speeding Up Symbolic Model Checking by Accelerating Dynamic Variable Reordering,1999,"['Christoph Meinel', 'Christian Stangier']",Universit
+Probabilistic Verification of Multiple-Valued Functions,1999,"['Elena Dubrova', 'Harald Sack']",Universit
+The Structure Theorem for Linear Transfer Systems,1992,"['Lothar Breuer', 'Peter Dierolf']",Universit
+Proximal Point Methods in Examples,1996,"['Alexander Kaplan', 'Rainer Tichatschke']",Universit
+ForkLight: A Control-Synchronous Parallel Programming Language,1998,"['Christoph W. Ke', 'Helmut Seidl']",Universit
+Improving XOR-Node Placement for (+)-OBDDs,2001,"['Christoph Meinel', 'Harald Sack']",Universit
+Boolean Manipulation with Free BDD's - First Experimental Results,1993,"['Jochen Bern', 'Jordan Gergov', 'Christoph Meinel', 'Anna Slobodov']",Universit
+Separation by Hyperplanes in Finite-Dimensional Vector Spaces Over Archimedean Ordered Fields,1997,"['Peter Gritzmann', 'Victor Klee']",Universit
+Successive Determination and Verification of Polytopes by their X-Rays,1992,"['R. J. Gardner', 'Peter Gritzmann']",Universit
+On the Power of Polynomial Bit-Reductions,1992,"['Ulrich Hertrampf', 'Clemens Lautemann', 'Thomas Schwentick', 'Heribert Vollmer', 'Klaus W. Wagner']",Universit
+Cross-Positive Matrices Revisited,1993,"['Peter Gritzmann', 'Victor Klee', 'B. S. Tam']",Universit
+Precise Interprocedural Dependence Analysis of Parallel Programs,2002,"['Dieter Baum', 'Markus M']",Universit
+The Disjoint Cliques Problem,1992,"['Klaus Jansen', 'Petra Scheffler', 'Gerhard J. Woeginger']",Universit
+On the Complexity of a Licence Constrained Job Assignment Problem,1992,"['Jens Hofmann 0001', 'Klaus Jansen']",Universit
+Differences in productivity and impact across the different computer science subareas.,2012,"['Jacques Wainer', 'Michael Eckmann', 'Siome Goldenstein', 'Anderson Rocha 0001']",Technical Report
+Internet Draft: Hypertext Transfer Protocol - HTTP/1.1,1999,"['Arnon Rosenthal', 'Roy T. Fielding', 'Henrik Frystyk Nielsen', 'Tim Berners-Lee']",Digital System Research Center Report
+XML-QL: A Query Language for XML,1998,"['Alin Deutsch', 'Mary F. Fernandez', 'Daniela Florescu', 'Alon Y. Levy', 'Dan Suciu']",
+Normalized Data Base Structure: A Brief Tutorial.,1971,"['Robin Cover', 'E. F. Codd']","Research Report / RJ / IBM / San Jose, California"
+ACM SIGMOD Contribution Award 2003 Acceptance Speech,2003,"['E. F. Codd', 'Michael Ley']",
+DB,1995,"['E. F. Codd', 'Michael Ley']",Compulog Newsletter
+Interactive Support for Non-Programmers: The Relational and Network Approaches.,1974,"['E. F. Codd', 'C. J. Date']","Research Report / RJ / IBM / San Jose, California"
+Catchment classification by runoff behaviour with self-organizing maps (SOM),2011,"['E. F. Codd', 'Rita Ley', 'Markus Casper', 'Hugo Hellebrand', 'Ralf Merz']",Hydrology and Earth System Sciences
+Common Subexpression Identification in General Algebraic Systems.,1974,"['John Lions', 'Patrick A. V. Hall']","Technical Rep. UKSC 0060, IBM United Kingdom Scientific Centre"
+"Derivability, Redundancy and Consistency of Relations Stored in Large Data Banks.",1969,"['E. F. Codd', 'E. F. Codd']","Research Report / RJ / IBM / San Jose, California"
+Principles of Distributed Object Database Languages.,1996,"['Michael Ley', 'Markus Tresch']","ETH Zurich, Department of Computer Science / Technical Report"
+Analysis of projected hydrological behavior of catchments based on signature indices,2012,"['E. F. Codd', 'Markus Casper', 'Gayane Grigoryan', 'Oliver Gronz', 'Oliver Gutjahr', 'G', 'Rita Ley', 'Andreas Rock']",Hydrology and Earth System Sciences
+Who's Who in the World Wide Web: Approaches to Name Disambiguation,2007,"['Stephan Vollmer', 'Vanessa C. Klaas']",
+Efficient View Maintenance at Data Warehouses.,1997,"['Kurt P. Brown', 'Tolga Yurek']",
+Regelbasierte Extraktion und asymmetrische Fusion bibliographischer Informationen.,2009,"['Rita Ley', 'Oliver Hoffmann 0002']",
+Token.,2011,"['Bir Bhanu', 'Marijke De Soete']",
+Privacy-Preserving Authentication in Wireless Access Networks.,2011,"['Chen-Mou Cheng', 'Shucheng Yu', 'Wenjing Lou', 'Kui Ren 0001']",
+Personal Identification Number (PIN).,2011,"['Bart Preneel', 'Carlisle Adams']",
+Existential Forgery.,2011,"['Alex Biryukov', 'Gerrit Bleumer']",
+Naccache-Stern Higher Residues Cryptosystem.,2011,"['Carl M. Ellison', 'David Naccache']",
+Field.,2011,"['Dan Boneh', 'Burt Kaliski']",
+Alphabet.,2011,"['Fran', 'Friedrich L. Bauer']",
+CLEFIA.,2011,"['Peter Landrock', 'Lars R. Knudsen']",
+Extension Field.,2011,"['Torben P. Pedersen', 'Burt Kaliski']",
+Trust Management.,2011,"['Sean W. Smith', 'Brian Wongchaowart', 'Adam J. Lee']",
+Oblivious Transfer.,2011,"['Sean W. Smith', 'Berry Schoenmakers']",
+Unlinkability.,2005,"['Michael E. Locasto', 'Gerrit Bleumer']",
+Niederreiter Encryption Scheme.,2011,"['Burt Kaliski', 'Nicolas Sendrier']",
+TWIRL.,2005,"['Adi Shamir', 'Eran Tromer']",
+Theorem Proving and Security.,2011,"['Christophe De Canni', 'Catherine A. Meadows']",
+Administrative Policies.,2011,"['Marijke De Soete', 'Pierangela Samarati']",
+Pretty Good Privacy (PGP).,2011,"['Aaron Estes', 'Clemens Heinrich']",
+Anonymous Web Browsing and Publishing.,2011,"['Carlisle Adams', 'Stefan K']",
+Structural Cryptanalysis.,2011,"['Steven M. Bellovin', 'Alex Biryukov']",
+Hard-Core Bit.,2005,"['Bodo M', 'Burton S. Kaliski Jr.']",
+Vector Space.,2011,"['Ninghui Li', 'Tanja Lange 0001']",
+Cryptology.,2005,"['Alex Biryukov', 'Friedrich L. Bauer']",
+Semantic Security.,2011,"['Carlisle Adams', 'Kazue Sako']",
+Public Key Proxy Signatures.,2011,"['Arun Ross', 'Gerrit Bleumer']",
+Multiple Independent Levels of Security.,2011,"['Burton S. Kaliski Jr.', 'Jim Alves-Foss']",
+Euler's Totient Function.,2005,"['Markus Kuhn', 'Burton S. Kaliski Jr.']",
+Secure Network Coding for Wireless Mesh Networks.,2011,"['Ran Canetti', 'Cristina Nita-Rotaru', 'Reza Curtmola']",
+Security Architecture.,2005,"['Bart Preneel', 'Peter Landrock']",
+Roles in SQL.,2011,"['Friedrich L. Bauer', 'Alessandro Campi']",
+Ntru.,2005,"['Kim Nguyen', 'William Whyte']",
+Summation generator.,2005,"['Alex Biryukov', 'Caroline Fontaine']",
+Right-to-Left Exponentiation.,2005,"['Matthias Schunter', 'Bodo M']",
+Contract Signing.,2005,"['Alex Biryukov', 'Matthias Schunter']",
+Tempest.,2011,"['Tor Helleseth', 'Markus Kuhn']",
+Smoothness.,2011,"['Alex Biryukov', 'Kim Nguyen']",
+Separation of Duties.,2011,"['Mary Ellen Zurko', 'Richard T. Simon']",
+Access Structure.,2011,"['Gerrit Bleumer', 'Yvo Desmedt']",
+SHA Family (Secure Hash Algorithm).,2005,"['Sabrina De Capitani di Vimercati', 'Helena Handschuh']",
+Electronic Cash.,2005,"['Bart Preneel', 'Gerrit Bleumer']",
+Multiprecision Squaring.,2005,"['Caroline Fontaine', 'Berk Sunar']",
+Algorithmic DoS.,2011,"['Marijke De Soete', 'Scott A. Crosby', 'Dan S. Wallach']",
+Public Key Proxy Encryption.,2005,"['Christian Cachin', 'Gerrit Bleumer']",
+Interactive Argument.,2005,"['Alex Biryukov', 'Berry Schoenmakers']",
+Chosen Ciphertext Attack.,2005,"['Gerrit Bleumer', 'Alex Biryukov']",
+Signed Digit Exponentiation.,2005,"['Burt Kaliski', 'Bodo M']",
+Exponential Time.,2011,"['Carlisle Adams', 'Burt Kaliski']",
+Group.,2005,"['Nicolas Sendrier', 'Burton S. Kaliski Jr.']",
+RIPEMD Family.,2005,"['Gerrit Bleumer', 'Antoon Bosselaers']",
+Certification Authority.,2011,"['Carlisle Adams', 'Russ Housley', 'Sean Turner']",
+Modular Root.,2011,"['Claude Cr', 'Scott Contini']",
+Insider Threat Defense.,2011,"['Salvatore J. Stolfo', 'Brian M. Bowen', 'Malek Ben Salem']",
+Biometric Systems Evaluation.,2011,"['Gerrit Bleumer', 'Jonas Richiardi', 'Krzysztof Kryszczuk']",
+Side-Channel Analysis.,2005,"['Marc Joye', 'Francis Olivier']",
+Authenticated Encryption.,2011,"['Friedrich L. Bauer', 'J. Black']",
+Keyboard Dynamics.,2011,"['Bart Preneel', 'Mitchell A. Thornton']",
+PKIX - Public Key Infrastructure (X.509).,2005,"['Marijke De Soete', 'Torben P. Pedersen']",
+DC Network.,2005,"['Nary Subramanian', 'Gerrit Bleumer']",
+Random Bit Generator.,2005,"['Joe Pato', 'Marco Bucci']",
+Electronic Postage.,2005,"['Steve Lloyd', 'Gerrit Bleumer']",
+Proof of Knowledge Versus Proof of Membership.,2011,"['Bodo M', 'Berry Schoenmakers']",
+Lattice Reduction.,2005,"['Guofei Gu', 'Phong Q. Nguyen']",
+Cayley Hash Functions.,2011,"['Christophe Petit', 'Jean-Jacques Quisquater']",
+Number Field.,2005,"['Dalit Naor', 'Burton S. Kaliski Jr.']",
+Computational Complexity.,2005,"['Yvo Desmedt', 'Salil P. Vadhan']",
+SWP.,2011,"['Burt Kaliski', 'Marc Vauclair']",
+Koblitz Elliptic Curves.,2011,"['Darrel Hankerson', 'Alfred Menezes']",
+Secure Data Outsourcing: A Brief Overview.,2011,"['Tom Caddy', 'Radu Sion']",
+Authorization Policy.,2005,"['Yevgeniy Dodis', 'Carlisle Adams']",
+Rank Codes.,2011,"['XiaoFeng Wang 0001', 'Ernst M. Gabidulin']",
+Sieving in Function Fields.,2011,"['Anne Canteaut', 'Emmanuel Thom']",
+Nyberg-Rueppel Signature Scheme.,2005,"['Torben Pedersen', 'Kazue Sako']",
+Pseudonyms.,2011,"['Russ Housley', 'Gerrit Bleumer']",
+Reference Monitor.,2011,"['Bodo M', 'Trent Jaeger']",
+PMAC.,2011,"['Fran', 'Bart Preneel']",
+Password.,2005,"['Carlisle Adams', 'Gerald Brose']",
+Visual Secret Sharing Schemes.,2005,"['Robert Blakley', 'Gregory A. Kabatiansky']",
+Boomerang Attack.,2005,"['Matthew K. Franklin', 'Alex Biryukov']",
+Feistel Cipher.,2005,"['Henk C. A. van Tilborg', 'Alex Biryukov']",
+Fingerprint.,2011,"['Ruggero Donida Labati', 'Fabio Scotti']",
+Quadratic Sieve.,2011,"['Jorge Guajardo', 'Robert Silverman']",
+Zeroization.,2011,"['Carlisle Adams', 'Sean W. Smith']",
+Primality Proving Algorithm.,2011,"['Friedrich L. Bauer', 'Anton Stiglic']",
+Dictionary Attack (I).,2005,"['Glenn Durfee', 'Alex Biryukov']",
+Security Implication in Virtualization.,2011,"['Tae Hwan Oh', 'Shinyoung Lim', 'Young B. Choi', 'Jungwoo Ryoo']",
+Related Key Attack.,2005,"['Tim G', 'Alex Biryukov']",
+Hash-Based Signatures.,2011,"['Burt Kaliski', 'Tanja Lange 0001']",
+DNA.,2011,"['Lars R. Knudsen', 'Svetlana N. Yanushkevich', 'Denis V. Popel']",
+Generator.,2005,"['Saeed Abu-Nimeh', 'Burton S. Kaliski Jr.']",
+Invasive Attacks.,2005,"['Assia Tria', 'Hamid Choukri']",
+Electromagnetic Attack.,2011,"['Christophe De Canni', 'Jean-Jacques Quisquater', 'David Samyde']",
+Unpacking Malware.,2011,"['Brent ByungHoon Kang', 'Greg Sinclair']",
+Blinding Techniques.,2005,"['Caroline Fontaine', 'Gerrit Bleumer']",
+Dynamic Malware Analysis.,2011,"['Burton S. Kaliski Jr.', 'Brent ByungHoon Kang', 'Anurag Srivastava']",
+Side-Channel Attacks.,2011,"['Carl M. Ellison', 'Tom Caddy']",
+Tamper Response.,2005,"['Gerrit Bleumer', 'Tom Caddy']",
+Whirlpool.,2011,"['Paulo S. L. M. Barreto', 'Vincent Rijmen']",
+Miller-Rabin Probabilistic Primality Test.,2011,"['Berry Schoenmakers', 'Moses D. Liskov']",
+TCP Reset Injection.,2011,"['Bart Preneel', 'Nicholas C. Weaver']",
+Credentials.,2005,"['Wensheng Zhang', 'Gerrit Bleumer']",
+Chinese Wall.,2011,"['Burton S. Kaliski Jr.', 'Sabrina De Capitani di Vimercati', 'Pierangela Samarati']",
+Shannon's Model.,2005,"['Tor Helleseth', 'Henk C. A. van Tilborg']",
+Vascular Patterns.,2011,"['Kar-Ann Toh', 'Andrew Beng Jin Teoh']",
+Data Encryption Standard (DES).,2011,"['Friedrich L. Bauer', 'Alex Biryukov', 'Christophe De Canni']",
+Shamir's Threshold Scheme.,2011,"['Martin Evison', 'G. R. Blakley', 'Gregory A. Kabatiansky']",
+Applications of Formal Methods to Web Application Security.,2011,"['Jean-Louis Lanet', 'V. N. Venkatakrishnan']",
+Certificate Management.,2011,"['Gerrit Bleumer', 'Carlisle Adams']",
+Symmetric Cryptosystem.,2011,"['Peter Landrock', 'Burt Kaliski']",
+Web Browser Security and Privacy.,2011,"['Carlisle Adams', 'V. N. Venkatakrishnan']",
+Temporal Access Control.,2011,"['Burt Kaliski', 'Claudio Bettini']",
+Firewalls.,2011,"['Carlisle Adams', 'Ehab Al-Shaer']",
+Biometrics.,2005,"['Markus Kuhn', 'Arun Ross', 'Anil K. Jain 0001']",
+Overlay-Based DoS Defenses.,2011,"['Berry Schoenmakers', 'Angelos Stavrou']",
+Inversion Attack.,2011,"['Graham Steel', 'Anne Canteaut']",
+Threshold Signature.,2005,"['Ebru Celikel Cankaya', 'Gerrit Bleumer']",
+Greatest Common Divisor.,2011,"['Friedrich L. Bauer', 'Scott Contini']",
+Physical Unclonable Functions (PUFs).,2011,"['Nicky Mouha', 'Jorge Guajardo']",
+Modulus.,2011,"['Catherine A. Meadows', 'Scott Contini']",
+Platform for Privacy Preferences (P3P).,2011,"['Burton S. Kaliski Jr.', 'Lorrie Faith Cranor']",
+Linear Syndrome Attack.,2011,"['Anne Canteaut', 'Anne Canteaut']",
+Key escrow.,2005,"['Eric Cronin', 'Miles E. Smid']",
+"Secure signatures from the ""strong RSA"" assumption.",2005,"['Marco Gruteser', 'Dan Boneh']",
+Hyperelliptic Curves.,2011,"['Roberto Avanzi', 'Nicolas Th']",
+Selective Forgery.,2005,"['Phong Q. Nguyen', 'Gerrit Bleumer']",
+Ciphertext-Only Attack.,2005,"['Igor E. Shparlinski', 'Alex Biryukov']",
+TCP Modulation Attacks.,2011,"['Carlisle Adams', 'Angelos Stavrou']",
+Spyware.,2011,"['Matthias Schunter', 'Nary Subramanian']",
+Radio Frequency Attacks.,2005,"['Jean-Jacques Quisquater', 'David Samyde']",
+Nonlinearity of Boolean Functions.,2011,"['Helena Handschuh', 'Claude Carlet']",
+Policy.,2005,"['Xiaokui Xiao', 'Patrick D. McDaniel']",
+"Secure Signatures from the ""Strong RSA"" Assumption.",2011,"['Carlisle Adams', 'Dan Boneh']",
+Broadcast Encryption.,2011,"['Collin Jackson', 'Dalit Naor']",
+Secure Time Synchronization.,2011,"['Kun Sun 0001', 'Peng Ning']",
+Boolean Functions.,2011,"['Claudio Agostino Ardagna', 'Claude Carlet']",
+Self-Shrinking Generator.,2011,"['Burton S. Kaliski Jr.', 'Caroline Fontaine']",
+Elliptic Curve Public-Key Encryption Schemes.,2011,"['Daniel Gordon', 'Darrel Hankerson', 'Alfred Menezes']",
+Identity-Based Encryption.,2011,"['Gerrit Bleumer', 'Martin Gagn']",
+Pseudorandom Function.,2005,"['Claude Carlet', 'Burton S. Kaliski Jr.']",
+Factor Base.,2011,"['Pascale Charpin', 'Burt Kaliski']",
+Homomorphism.,2005,"['Alan D. Smith', 'Burton S. Kaliski Jr.']",
+Perfectly Secure Message Transmission.,2011,"['Yvo Desmedt', 'Qiushi Yang']",
+Web Security Auditing.,2011,"['Moses D. Liskov', 'Dario V. Forte']",
+Codebook Attack.,2005,"['Wensheng Zhang', 'Alex Biryukov']",
+Hash Chain.,2011,"['David Naccache', 'Dwight Horne']",
+"Authentication, From an Information Theoretic Perspective.",2011,"['Mike Just', 'Gregory A. Kabatiansky', 'Ben J. M. Smeets']",
+Mersenne Prime.,2005,"['XiaoFeng Wang 0001', 'Jerome A. Solinas']",
+Triple DES.,2011,"['Paul England', 'Christophe De Canni']",
+Fair Exchange.,2011,"['Caroline Fontaine', 'Matthias Schunter']",
+Node Clone Defense.,2011,"['Pierangela Samarati', 'Donggang Liu']",
+Privacy of Outsourced Data.,2011,"['Clemens Heinrich', 'Hakan Hacig', 'Bijit Hore', 'Sharad Mehrotra']",
+Interactive Proof.,2005,"['Alex Biryukov', 'Berry Schoenmakers']",
+Fermat Primality Test.,2011,"['Carlisle Adams', 'Moses D. Liskov']",
+Strong Prime.,2011,"['Tor Helleseth', 'Anton Stiglic']",
+"Trojan Horses, Computer Viruses and Worms.",2005,"['Gerrit Bleumer', 'Yvo Desmedt']",
+Access Control.,2011,"['Adam J. Lee', 'Gerald Brose']",
+Cut-and-Choose Protocol.,2011,"['Helena Handschuh', 'Claude Cr']",
+Sensor Code Attestation.,2011,"['Peter Landrock', 'Yi Yang 0002', 'Sencun Zhu']",
+Role-Based Access Control.,2011,"['Vijay Alturi', 'David F. Ferraiolo']",
+Penetration Testing.,2005,"['Gerrit Bleumer', 'Tom Caddy']",
+Cyclic Codes.,2005,"['Michalis Polychronakis', 'Pascale Charpin']",
+Firewall.,2005,"['Gerrit Bleumer', 'Niels Provos']",
+Face Recognition from Still Images and Video.,2011,"['Josep Domingo-Ferrer', 'Soma Biswas', 'Rama Chellappa']",
+Modes of Operation of a Block Cipher.,2005,"['Carlisle Adams', 'Bart Preneel']",
+Claw-Free.,2011,"['Friedrich L. Bauer', 'Burt Kaliski']",
+Uncoordinated Direct Sequence Spread Spectrum.,2011,"['Bart Preneel', 'Srdjan Capkun']",
+Zero-knowledge.,2005,"['Gerrit Bleumer', 'Berry Schoenmakers']",
+Hardware Security Module.,2011,"['Christophe De Canni', 'Laurent Sustek']",
+Permissions.,2011,"['Kazue Sako', 'Dwight Horne']",
+Synchronous Stream Cipher.,2011,"['B. V. K. Vijaya Kumar', 'Caroline Fontaine']",
+Quadratic Residuosity Problem.,2005,"['Aaron Estes', 'Burton S. Kaliski Jr.']",
+Berlekamp-Massey algorithm.,2005,"['Sara Foresti', 'Anne Canteaut']",
+Metrics of Software Security.,2011,"['Friedrich L. Bauer', 'Guido Salvaneschi', 'Paolo Salvaneschi']",
+Trusted Third Party.,2005,"['Tor Helleseth', 'Carlisle Adams']",
+Number Field Sieve for Factoring.,2011,"['Alexander Kruppa', 'Paul Leyland']",
+EMV.,2011,"['Alex Biryukov', 'Michael Ward', 'Anita Ochieano']",
+Microdata Protection.,2011,"['Friedrich L. Bauer', 'Sara Foresti']",
+Fault Attack.,2011,"['Alex Biryukov', 'Olivier Beno']",
+RC6.,2011,"['Jeffrey J. Wiley', 'Helena Handschuh']",
+Decoding Algorithms.,2011,"['Gerardo Pelosi', 'Christiane Peters']",
+Authentication.,2005,"['Gerrit Bleumer', 'Gregory A. Kabatiansky', 'Ben J. M. Smeets']",
+Information Theory.,2005,"['Tor Helleseth', 'Friedrich L. Bauer']",
+Correcting-block attack.,2005,"['Alex Biryukov', 'Bart Preneel']",
+Prime Generation.,2005,"['Mohamed Omar Rayes', 'Anton Stiglic']",
+Binary Euclidean Algorithm.,2011,"['Berry Schoenmakers', 'Berk Sunar']",
+Attributes management.,2005,"['Catherine A. Meadows', 'Carlisle Adams']",
+Anonymous Routing.,2011,"['Tor Helleseth', 'Yi Yang 0002', 'Sencun Zhu']",
+Biometric Encryption.,2011,"['Gerrit Bleumer', 'Ann Cavoukian', 'Alex Stoianov']",
+Covert Channels.,2011,"['Mike Burmester', 'Yvo Desmedt']",
+digital signature schemes.,2005,"['Caroline Fontaine', 'Kazue Sako']",
+Sensor Key Management.,2011,"['Yi Yang 0002', 'Sencun Zhu']",
+Time-memory tradeoffs.,2005,"['Bart Preneel', 'Jean-Jacques Quisquater', 'Fran']",
+Security of Group Communication in Wireless Mesh Networks.,2011,"['Cristina Nita-Rotaru', 'Reza Curtmola', 'Jing Dong 0006']",
+Security Reduction.,2011,"['Alex Biryukov', 'Mehdi Tibouchi']",
+Biometric Sample Quality.,2011,"['Andr', 'Krzysztof Kryszczuk', 'Jonas Richiardi']",
+Cramer-Shoup Public Key System.,2005,"['William Enck', 'Dan Boneh']",
+Traffic Analysis.,2011,"['Pascale Charpin', 'Scott E. Coull']",
+Biometric Sensors.,2011,"['Achint Thomas', 'Venu Govindaraju']",
+Dynamic Analysis.,2011,"['Mihai Christodorescu', 'Vinod Ganapathy']",
+Electronic Voting Schemes.,2005,"['Kazue Sako', 'Kazue Sako']",
+Undeniable Signatures.,2011,"['Alex Biryukov', 'Gerrit Bleumer']",
+Post-Quantum Cryptography.,2011,"['Anne Canteaut', 'Daniel J. Bernstein']",
+CEPS Standard.,2005,"['Burt Kaliski', 'Peter Landrock']",
+Nonrepudiation of Digital Signatures.,2011,"['Burt Kaliski', 'Mike Just']",
+Quantum Cryptography.,2011,"['Caroline Fontaine', 'Gilles Brassard', 'Claude Cr']",
+Group Signatures.,2005,"['Bart Preneel', 'Gerrit Bleumer']",
+Algebraic Immunity of Boolean Functions.,2011,"['Alex Biryukov', 'Claude Carlet']",
+Fermat's Little Theorem.,2005,"['Gerrit Bleumer', 'Moses D. Liskov']",
+Anonymity.,2011,"['Markus Kuhn', 'Gerrit Bleumer']",
+Electronic Cheque.,2011,"['Claude Carlet', 'Marijke De Soete']",
+Gr,2011,"['Paolo Salvaneschi', 'David Naccache']",
+Elliptic Curve Keys.,2011,"['Gerrit Bleumer', 'Darrel Hankerson', 'Alfred Menezes']",
+Security Evaluation Criteria.,2005,"['Tom Caddy', 'Gerrit Bleumer']",
+Resynchronization Attack.,2011,"['Pavan Verma', 'Alex Biryukov']",
+Moore's Law.,2005,"['Bart Preneel', 'Burton S. Kaliski Jr.']",
+Needham-Schroeder Protocols.,2011,"['Arjen K. Lenstra', 'Mike Just']",
+Phenotyping.,2011,"['Bart Preneel', 'David Naccache']",
+Trapdoor One-Way Function.,2011,"['Carlisle Adams', 'Matthew J. B. Robshaw']",
+Cryptosystem.,2005,"['Thomas Morris', 'Friedrich L. Bauer']",
+Signature Biometrics.,2011,"['Patrizio Campisi', 'Emanuele Maiorana', 'Alessandro Neri 0001']",
+Registration Authority.,2005,"['Marijke De Soete', 'Peter Landrock']",
+RSA Factoring Challenge.,2011,"['Christophe De Canni', 'Burt Kaliski']",
+Probabilistic Public-Key Encryption.,2011,"['Caroline Fontaine', 'Kazue Sako']",
+Protocol Cookies.,2011,"['Burt Kaliski', 'Debbie Cook']",
+Secure Coprocessor.,2011,"['Jerome A. Solinas', 'Sean W. Smith']",
+Exponentiation Algorithms.,2005,"['Micah Sherr', 'Christof Paar']",
+Pairing-Friendly Elliptic Curves.,2011,"['Sabrina De Capitani di Vimercati', 'Edlyn Teske']",
+Elliptic Curve Key Agreement Schemes.,2005,"['Darrel Hankerson', 'Alfred Menezes']",
+Kasumi/Misty1.,2005,"['Gerrit Bleumer', 'Christophe De Canni']",
+OAEP: Optimal Asymmetric Encryption Padding.,2005,"['Alex Biryukov', 'David Pointcheval']",
+Skipjack.,2011,"['Burt Kaliski', 'Alex Biryukov']",
+"Product Cipher, Superencryption.",2011,"['Peter Landrock', 'Alex Biryukov']",
+Cut-and-choose protocol.,2005,"['J', 'Claude Cr']",
+Location Information (Privacy of).,2011,"['Bart Preneel', 'Claudio Agostino Ardagna']",
+FIPS 140-2.,2005,"['Daniel J. Bernstein', 'Tom Caddy']",
+IPsec.,2005,"['Dan Boneh', 'Patrick D. McDaniel']",
+Key Agreement.,2011,"['Jerome A. Solinas', 'Mike Just']",
+Root of Trust.,2011,"['William D. Casper', 'Stephen M. Papa']",
+MAA.,2011,"['Dan Boneh', 'Bart Preneel']",
+Diffie-Hellman Problem.,2005,"['Bart Preneel', 'Igor E. Shparlinski']",
+Enigma.,2011,"['Carlisle Adams', 'Arkadiusz Orlowski']",
+Secure Code Dissemination in Wireless Sensor Networks.,2011,"['Marc Vauclair', 'Sangwon Hyun', 'Peng Ning']",
+Security of Wireless Mesh Networks (General Overview).,2011,"['Anne Canteaut', 'Reza Curtmola', 'Jing Dong 0006', 'Cristina Nita-Rotaru']",
+McEliece Public Key Cryptosystem.,2011,"['Benny Pinkas', 'Nicolas Sendrier']",
+Session Hijacking Attacks.,2011,"['Burton S. Kaliski Jr.', 'Martin Johns']",
+Serpent.,2005,"['Alex Biryukov', 'Christophe De Canni']",
+Jamming Attack Defense.,2011,"['Gerald Brose', 'Wenyuan Xu']",
+Fingerprinting.,2011,"['Sean W. Smith', 'Alexander Barg', 'Gregory A. Kabatiansky']",
+Physical Security.,2011,"['Fran', 'Jean-Jacques Quisquater']",
+Data encryption standard (DES).,2005,"['Arjen K. Lenstra', 'Alex Biryukov', 'Christophe De Canni']",
+Binary Exponentiation.,2011,"['Anne Canteaut', 'Bodo M']",
+Relatively Prime.,2011,"['Jonathan K. Millen', 'Burt Kaliski']",
+ARIA.,2011,"['Tanja Lange 0001', 'Sebastiaan Indesteege']",
+AHS Competition/SHA-3.,2011,"['Marijke De Soete', 'Bart Preneel']",
+Conceptual Design of Secure Databases.,2011,"['G', 'Moritz Riesner']",
+Elliptic Curve Method.,2005,"['Friedrich L. Bauer', 'Paul Zimmermann']",
+2,2005,"['Peter Landrock', 'Bodo M']",
+Impossible Differential Attack.,2011,"['Ernesto Damiani', 'Alex Biryukov']",
+Second Preimage Resistance.,2011,"['Andrew Clark', 'Bart Preneel']",
+Cookie.,2011,"['Keith B. Frikken', 'Michael T. Hunter']",
+Protected Mode.,2011,"['etin Kaya Ko', 'Mohamed Omar Rayes']",
+Jacobi Symbol.,2011,"['Tom Caddy', 'Burt Kaliski']",
+ABA digital signature guidelines.,2005,"['Peter Landrock', 'Peter Landrock']",
+Palmprint Recognition.,2011,"['David Zhang 0001', 'Feng Yue', 'Wangmeng Zuo']",
+Web Single Sign On and SAML.,2011,"['Bart Preneel', 'Fr']",
+Trusted Computing Platform Alliance.,2011,"['Bart Preneel', 'Scott A. Rotondo']",
+NESSIE Project.,2005,"['Srdjan Capkun', 'Bart Preneel']",
+Public Key Infrastructure.,2005,"['Dan Boneh', 'Peter Landrock']",
+Field Polynomial.,2005,"['Alex Biryukov', 'Burton S. Kaliski Jr.']",
+Adversarial/External Knowledge (Privacy in the Presence of).,2011,"['Kristen LeFevre', 'Bee-Chung Chen']",
+Trust Models.,2005,"['Burt Kaliski', 'Sharon Boeyen']",
+Integer Factoring.,2005,"['Christophe De Canni', 'Arjen K. Lenstra']",
+Prime number.,2005,"['Gerrit Bleumer', 'Anton Stiglic']",
+Formal Methods in Certification and Evaluation.,2011,"['Daniele Micciancio', 'Catherine A. Meadows']",
+Elliptic Curve Cryptography.,2011,"['Darrel Hankerson', 'Alfred Menezes']",
+Encryption.,2005,"['Elisa Gorla', 'Friedrich L. Bauer']",
+Header-Based Attacks.,2011,"['Helena Handschuh', 'Serge Fenet']",
+Acquirer.,2005,"['Tor Helleseth', 'Peter Landrock']",
+Asymmetric Cryptosystem.,2005,"['Berry Schoenmakers', 'Burton S. Kaliski Jr.']",
+Multilevel Database.,2011,"['Helena Handschuh', 'Pierangela Samarati', 'Giovanni Livraga']",
+GOST.,2011,"['Lee D. McFearin', 'Christophe De Canni']",
+Fiat-Shamir Identification Protocol and the Feige-Fiat-Shamir Signature Scheme.,2011,"['Gerrit Bleumer', 'Yvo Desmedt']",
+Fast Correlation Attack.,2005,"['Carlisle Adams', 'Anne Canteaut']",
+Subexponential Time.,2011,"['Daniel M. Gordon', 'Burt Kaliski']",
+"Trojan Horses, Computer Viruses, and Worms.",2011,"['David Naccache', 'Yvo Desmedt']",
+Rabin Cryptosystem.,2005,"['Gildas Avoine', 'David Pointcheval']",
+Chinese Wall Model.,2011,"['Tor Helleseth', 'Ebru Celikel Cankaya']",
+Two-Factor Authentication.,2011,"['Torben P. Pedersen', 'Marijke De Soete']",
+User Authentication.,2005,"['Marijke De Soete', 'Carlisle Adams']",
+Jamming Resistance.,2011,"['Bodo M', 'Srdjan Capkun']",
+Diffie-Hellman Key Agreement.,2005,"['Qijun Gu', 'Mike Just']",
+Elliptic Curves.,2011,"['Darrel Hankerson', 'Alfred Menezes']",
+Miss-in-the-Middle Attack.,2005,"['Sabrina De Capitani di Vimercati', 'Alex Biryukov']",
+Multivariate Cryptography.,2011,"['Louis Goubin', 'Jacques Patarin', 'Bo-Yin Yang']",
+Polyinstantiation.,2011,"['Sabrina De Capitani di Vimercati', 'Pierangela Samarati']",
+Control Vectors.,2005,"['Bodo M', 'Peter Landrock']",
+PKCS.,2005,"['Scott Contini', 'Peter Landrock']",
+Levels of Trust.,2011,"['Alex Biryukov', 'Stephen M. Papa', 'William D. Casper']",
+Administrative Policies in SQL.,2011,"['Alessandro Campi', 'Stefano Paraboschi']",
+Autocorrelation.,2011,"['Friedrich L. Bauer', 'Tor Helleseth']",
+Impersonation Attack.,2005,"['Kazue Sako', 'Carlisle Adams']",
+NSA Suite B.,2011,"['Darrel Hankerson', 'Alfred Menezes']",
+Network Bandwidth Denial of Service (DoS).,2011,"['David Pointcheval', 'Angelos D. Keromytis']",
+Grant Option.,2011,"['Sabrina De Capitani di Vimercati', 'Giovanni Livraga']",
+RSA Problem.,2011,"['Ronald L. Rivest', 'Burt Kaliski']",
+Linear Cryptanalysis for Block Ciphers.,2011,"['Alex Biryukov', 'Alex Biryukov', 'Christophe De Canni']",
+Cold-Boot Attacks.,2011,"['Claude Carlet', 'Nadia Heninger']",
+Rabin Digital Signature Scheme.,2011,"['Anton Stiglic', 'Dan Boneh']",
+RSA Digital Signature Scheme.,2005,"['Burton S. Kaliski Jr.', 'Burton S. Kaliski Jr.']",
+Shrinking Generator.,2011,"['Friedrich L. Bauer', 'Caroline Fontaine']",
+Probabilistic Key Sharing.,2011,"['Italo Dacosta', 'Donggang Liu']",
+Modular Arithmetic.,2005,"['Caroline Fontaine', 'Scott Contini', 'etin Kaya Ko', 'Colin D. Walter']",
+Sender Anonymity.,2011,"['William Stallings', 'Gerrit Bleumer']",
+Blind Signature.,2011,"['Cynthia Dwork', 'Gerrit Bleumer']",
+Elliptic Curve Point Multiplication Using Halving.,2011,"['Yvo Desmedt', 'Darrel Hankerson', 'Alfred Menezes']",
+Biometrics for Identity Management and Fields of Application.,2011,"['Anton Stiglic', 'Elisabeth de Leeuw']",
+Digital Signature Scheme Based on McEliece.,2011,"['Jonathan K. Millen', 'Matthieu Finiasz', 'Nicolas Sendrier']",
+Security of Cognitive Radios.,2011,"['Jung-Min ""Jerry"" Park', 'Kaigui Bian']",
+Key Escrow.,2011,"['Christophe De Canni', 'Mike Just']",
+Aggregate Signatures.,2011,"['Moses D. Liskov', 'Dan Boneh']",
+CRYPTREC (Japanese Cryptographic Algorithm Evaluation Project).,2011,"['Hideki Imai', 'Atsuhiro Yamagishi']",
+Master Key.,2011,"['Marijke De Soete', 'Carlisle Adams']",
+Cover Story.,2011,"['Fr', 'Nora Cuppens-Boulahia']",
+Schnorr Digital Signature Scheme.,2005,"['Burt Kaliski', 'Dan Boneh']",
+Slide Attack.,2005,"['Burton S. Kaliski Jr.', 'Alex Biryukov']",
+Overspending Prevention.,2005,"['Berry Schoenmakers', 'Gerrit Bleumer']",
+Response.,2005,"['Burt Kaliski', 'Carlisle Adams']",
+HMAC.,2005,"['Yevgeniy Dodis', 'Bart Preneel']",
+Untraceability.,2005,"['Tor Helleseth', 'Gerrit Bleumer']",
+Designated Confirmer Signature.,2005,"['Caroline Fontaine', 'Gerrit Bleumer']",
+Identity-Based Cryptosystems.,2005,"['Beno', 'Jean-Jacques Quisquater']",
+DES-X (or DESX).,2011,"['David Naccache', 'Alex Biryukov']",
+"CPS, Certificate Practice Statement.",2011,"['David Pointcheval', 'Torben Pedersen']",
+Adaptive Chosen Ciphertext Attack.,2011,"['Torben Pedersen', 'Alex Biryukov']",
+Block Ciphers.,2011,"['Yvo Desmedt', 'Lars R. Knudsen']",
+Worms in Cellular Networks.,2011,"['Tanja Lange 0001', 'Guohong Cao', 'Zhichao Zhu']",
+Differential Power Analysis.,2005,"['Donggang Liu', 'Tom Caddy']",
+Witness Hiding.,2011,"['Burt Kaliski', 'Berry Schoenmakers']",
+NTRU.,2011,"['Tom Caddy', 'William Whyte', 'Jeffrey Hoffstein']",
+Playfair Cipher.,2005,"['Marijke De Soete', 'Friedrich L. Bauer']",
+Multiprecision Multiplication.,2005,"['Anne Canteaut', 'Berk Sunar']",
+Electronic Negotiable Instruments.,2005,"['Burt Kaliski', 'Peter Landrock']",
+Certificate.,2011,"['Gerrit Bleumer', 'Carlisle Adams']",
+Time-stamping.,2005,"['Gerrit Bleumer', 'Stuart Haber', 'Henri Massias']",
+Discrete Logarithm Problem.,2011,"['Pascal Paillier', 'Daniel M. Gordon']",
+Hash Functions.,2011,"['David Challener', 'Bart Preneel']",
+Goldwasser-Micali Encryption Scheme.,2005,"['Kazue Sako', 'Kazue Sako']",
+Communication Channel Anonymity.,2011,"['Gerrit Bleumer', 'Gerrit Bleumer']",
+Challenge-Response Identification.,2005,"['Kazue Sako', 'Mike Just']",
+Physical Attacks.,2005,"['Kerstin Lemke', 'Christof Paar']",
+Certified Mail.,2011,"['Christophe De Canni', 'Matthias Schunter']",
+Trusted Boot.,2011,"['William D. Casper', 'Stephen M. Papa']",
+Golomb's Randomness Postulates.,2011,"['Robert J. Zuccherato', 'Tor Helleseth']",
+Proximity Card.,2011,"['Anne Canteaut', 'Marc Vauclair']",
+Secure Device Pairing.,2011,"['Pascale Charpin', 'Ming Li 0003', 'Wenjing Lou', 'Kui Ren 0001']",
+Biometrics: Terms and Definitions.,2011,"['Gerrit Bleumer', 'Evangelia Micheli-Tzanakou', 'Konstantinos N. Plataniotis']",
+Hand Geometry Recognition.,2011,"['David Zhang 0001', 'Vivek Kanhangad']",
+PRESENT - Block Cipher.,2011,"['Moses D. Liskov', 'Lars R. Knudsen', 'Gregor Leander']",
+Differential Cryptanalysis.,2011,"['Alex Biryukov', 'Eli Biham']",
+Content-Based and View-Based Access Control.,2011,"['Carlisle Adams', 'Arnon Rosenthal', 'Edward Sciore']",
+Payment card.,2005,"['Wensheng Zhang', 'Peter Landrock']",
+Electronic payment.,2005,"['Burton S. Kaliski Jr.', 'Gerrit Bleumer']",
+Karatsuba Algorithm.,2011,"['Friedrich L. Bauer', 'Andr']",
+Privacy-Aware Languages.,2011,"['Daniele Micciancio', 'Claudio Agostino Ardagna']",
+Least Privilege.,2011,"['Brent ByungHoon Kang', 'Sabrina De Capitani di Vimercati']",
+SQL Injection Attacks.,2011,"['David Challener', 'Alessandro Orso']",
+Universal One-Way Hash Functions (UOWHF).,2011,"['Friedrich L. Bauer', 'Bart Preneel']",
+Key.,2005,"['Qijun Gu', 'Friedrich L. Bauer']",
+Mars.,2005,"['Yvo Desmedt', 'Christophe De Canni']",
+Blum-Blum-Shub Pseudorandom Bit Generator.,2005,"['Berk Sunar', 'Dan Boneh']",
+Broadcast Authentication from an Information Theoretic Perspective.,2011,"['Burton S. Kaliski Jr.', 'Yvo Desmedt', 'Goce Jakimoski']",
+Search over Encrypted Data.,2011,"['Ali Bagherzandi', 'Bijit Hore', 'Sharad Mehrotra']",
+Chaffing and Winnowing.,2011,"['Antoon Bosselaers', 'Gerrit Bleumer']",
+ECC Challenges.,2005,"['Darrel Hankerson', 'Alfred Menezes']",
+Twin Signatures.,2011,"['Arjen K. Lenstra', 'David Naccache']",
+SEAL.,2011,"['Bryan D. Payne', 'Caroline Fontaine']",
+RSA factoring challenge.,2005,"['Anne Canteaut', 'Burton S. Kaliski Jr.']",
+Keeloq.,2011,"['Gerrit Bleumer', 'Thomas Eisenbarth 0001', 'Timo Kasper', 'Christof Paar', 'Sebastiaan Indesteege']",
+Forgery.,2005,"['Sebastiaan Indesteege', 'Gerrit Bleumer']",
+Maximal-Length Sequences.,2011,"['Bart Preneel', 'Tor Helleseth']",
+Vernam Cipher.,2005,"['Berry Schoenmakers', 'Friedrich L. Bauer']",
+"HTTPS, Secure HTTPS.",2005,"['Yvo Desmedt', 'Torben P. Pedersen']",
+Linear Congruential Generator.,2005,"['Carlisle Adams', 'Caroline Fontaine']",
+Secure Vehicular Communication Systems.,2011,"['Panos Papadimitratos', 'Jean-Pierre Hubaux']",
+Adaptive Chosen Plaintext Attack.,2005,"['Russell Housley', 'Alex Biryukov']",
+Overspender Detection.,2005,"['Christof Paar', 'Gerrit Bleumer']",
+Commitment.,2005,"['Eric Cronin', 'Claude Cr']",
+Digital Steganography.,2005,"['Fran', 'Christian Cachin']",
+"HTTPS, HTTP over TLS.",2011,"['Matthias Schunter', 'Torben Pedersen']",
+Key Management.,2011,"['Scott A. Rotondo', 'Steve Lloyd', 'Carlisle Adams']",
+Mobile Payments.,2011,"['Bart Preneel', 'Marijke De Soete']",
+Encryption Exponent.,2005,"['Burton S. Kaliski Jr.', 'Burton S. Kaliski Jr.']",
+Polybios Square Encryption.,2005,"['Sean W. Smith', 'Friedrich L. Bauer']",
+Birthday Paradox.,2005,"['Berk Sunar', 'Arjen K. Lenstra']",
+White-Box Cryptography.,2011,"['Anton Stiglic', 'Brecht Wyseur']",
+IDEA.,2011,"['Gerrit Bleumer', 'Alex Biryukov']",
+Hyperelliptic Curve Security.,2011,"['Burt Kaliski', 'Roberto Avanzi', 'Nicolas Th']",
+PKI Trust Models.,2011,"['Alexander W. Dent', 'Mike Just']",
+Hash Agility.,2011,"['Gerrit Bleumer', 'David Challener']",
+Trust Management in Databases.,2011,"['Carlisle Adams', 'Scott D. Stoller']",
+Biba Integrity Model.,2011,"['Burt Kaliski', 'Aaron Estes']",
+Privilege Management.,2005,"['David A. McGrew', 'Carlisle Adams']",
+Key agreement.,2005,"['Anne Canteaut', 'Mike Just']",
+Attribute certificate.,2005,"['Nicolas Sendrier', 'Peter Landrock']",
+Secure Localization.,2011,"['Dan Boneh', 'Donggang Liu']",
+Multiparty Computation.,2011,"['Bart Preneel', 'Berry Schoenmakers']",
+BLS Short Digital Signatures.,2011,"['John Ioannidis', 'Dan Boneh']",
+Substitutions and permutations.,2005,"['Engin Kirda', 'Friedrich L. Bauer']",
+Biometric Privacy.,2011,"['Gerrit Bleumer', 'Fabio Scotti', 'Stelvio Cimato', 'Roberto Sassi']",
+Subgroup.,2005,"['Marijke De Soete', 'Burton S. Kaliski Jr.']",
+Tamper Detection.,2005,"['Yvo Desmedt', 'Tom Caddy']",
+Lattice Based Cryptography.,2005,"['Kazue Sako', 'Daniele Micciancio']",
+Trusted Computing.,2011,"['Stephen M. Papa', 'William D. Casper']",
+Itoh-Tsujii Inversion Algorithm.,2005,"['Berry Schoenmakers', 'Jorge Guajardo']",
+Meet-in-the-Middle Attack.,2011,"['Benny Pinkas', 'Alex Biryukov']",
+ARP Spoofing.,2011,"['Tom Caddy', 'William Enck']",
+Hash functions.,2005,"['Andr', 'Bart Preneel']",
+Copy Protection.,2011,"['Paul C. Leyland', 'Gerrit Bleumer']",
+Primality Test.,2005,"['Alex Biryukov', 'Anton Stiglic']",
+Discretionary Access Control.,2011,"['Alex Biryukov', 'Ninghui Li']",
+Rijndael.,2011,"['Gerrit Bleumer', 'Joan Daemen', 'Vincent Rijmen']",
+Secondary Use Regulations.,2011,"['Anton Stiglic', 'Laurent Bussard']",
+Static Analysis.,2011,"['Alex Biryukov', 'David Brumley']",
+Database Encryption.,2011,"['Markus Kuhn', 'Luc Bouganim', 'Yanli Guo']",
+Packet-Dropping Attack.,2011,"['Christophe De Canni', 'Qijun Gu']",
+Fixed-Base Exponentiation.,2011,"['Alex Biryukov', 'Andr']",
+Quasi-Identifier.,2011,"['Sabrina De Capitani di Vimercati', 'Sara Foresti']",
+NIST Elliptic Curves.,2011,"['Darrel Hankerson', 'Alfred Menezes']",
+Blum-Goldwasser Public Key Encryption System.,2011,"['Joachim Biskup', 'Dan Boneh']",
+Tamper Resistance.,2011,"['Christophe De Canni', 'Tom Caddy']",
+Legendre Symbol.,2005,"['Anne Canteaut', 'Burton S. Kaliski Jr.']",
+Decisional Diffie-Hellman Problem.,2011,"['Ran Canetti', 'Mayank Varia']",
+Access structure.,2005,"['Bart Preneel', 'Yvo Desmedt']",
+Secure Index.,2011,"['Arjen K. Lenstra', 'Gerardo Pelosi']",
+Data Linkage.,2011,"['Ebru Celikel Cankaya', 'William E. Winkler']",
+MARS.,2011,"['Christophe De Canni', 'Christophe De Canni']",
+Cross-Correlation.,2005,"['Alex Biryukov', 'Tor Helleseth']",
+Bell-La Padula Model.,2011,"['Mark Stephens', 'David Elliott Bell']",
+SSH.,2005,"['Anne Canteaut', 'Peter Landrock']",
+Inversion in Finite Fields and Rings.,2011,"['Arjen K. Lenstra', 'Christof Paar']",
+Contactless Cards.,2011,"['Anton Stiglic', 'Marc Vauclair']",
+Elliptic Curve Method for Factoring.,2011,"['Burton S. Kaliski Jr.', 'Paul Zimmermann']",
+Issuer.,2005,"['Fernando L. Podio', 'Peter Landrock']",
+E-Privacy.,2011,"['Johannes Gehrke', 'Ashwin Machanavajjhala']",
+Elliptic Curve Discrete Logarithm Problem.,2011,"['Darrel Hankerson', 'Alfred Menezes']",
+Designated-Verifier Proofs.,2011,"['Daniele Micciancio', 'Berry Schoenmakers']",
+Security for Mashups.,2011,"['Anne Canteaut', 'Sachiko Yoshihama']",
+Chinese Remainder Theorem.,2011,"['Berry Schoenmakers', 'Henk C. A. van Tilborg']",
+Network Capabilities.,2011,"['Carl M. Ellison', 'Xiaowei Yang 0001']",
+Key Generation Using Physical Properties of Wireless Communication.,2011,"['Aggelos Kiayias', 'B']",
+Buffer Overflow Attacks.,2011,"['Marion Videau', 'Angelos D. Keromytis']",
+Wireless Device Fingerprinting.,2011,"['Suman Banerjee', 'Vladimir Brik']",
+Number Theory.,2011,"['Robert J. Zuccherato', 'Scott Contini']",
+One-Way Function.,2011,"['Anne Canteaut', 'Matthew J. B. Robshaw']",
+Maximal-Length Linear Sequence.,2005,"['Friedrich L. Bauer', 'Tor Helleseth']",
+Digital Signature Schemes from Codes.,2011,"['Philippe Gaborit', 'Nicolas Sendrier']",
+Collaborative DoS Defenses.,2011,"['Berry Schoenmakers', 'Jelena Mirkovic']",
+Euclidean Algorithm.,2011,"['Dan Boneh', 'Berk Sunar']",
+Derived key.,2005,"['Carlisle Adams', 'Peter Landrock']",
+Clark and Wilson Model.,2011,"['Sabrina De Capitani di Vimercati', 'Pierangela Samarati']",
+Identity Management.,2011,"['Arjen K. Lenstra', 'Mike Just']",
+Rijndael/AES.,2005,"['Joan Daemen', 'Vincent Rijmen']",
+Truncated Differentials.,2011,"['Caroline Fontaine', 'Alex Biryukov']",
+Fail-Stop Signature.,2005,"['Tor Helleseth', 'Gerrit Bleumer']",
+Noninteractive Proof.,2005,"['Peter Landrock', 'Berry Schoenmakers']",
+Correlation Attack for Stream Ciphers.,2011,"['Bruce Schneier', 'Anne Canteaut']",
+Cube Attack.,2011,"['Pascal Paillier', 'Marion Videau']",
+Secure Routing in Wireless Mesh Networks.,2011,"['Cristina Nita-Rotaru', 'Jing Dong 0006', 'Reza Curtmola']",
+Application-Level Denial of Service.,2011,"['Mudhakar Srivatsa', 'Arun Iyengar']",
+Maurer's Method.,2011,"['Carlisle Adams', 'Moses D. Liskov']",
+Access Control Lists.,2011,"['Kazue Sako', 'Hakki C. Cankaya']",
+Interpolation Attack.,2011,"['Caroline Fontaine', 'Christophe De Canni']",
+Passport Security.,2011,"['Jean-Jacques Quisquater', 'Gildas Avoine']",
+Share.,2005,"['Andr', 'Robert Blakley', 'Gregory A. Kabatiansky']",
+Cramer-Shoup Public-Key System.,2011,"['Daniele Micciancio', 'Dan Boneh']",
+Stream and Multicast Authentication.,2011,"['Peter Landrock', 'Yvo Desmedt', 'Goce Jakimoski']",
+Certificate of Primality.,2005,"['Friedrich L. Bauer', 'Anton Stiglic']",
+Logic-Based Authorization Languages.,2011,"['Robert J. Zuccherato', 'Piero A. Bonatti']",
+Cryptophthora.,2011,"['Friedrich L. Bauer', 'David Naccache']",
+Speaker Recognition.,2011,"['Srdjan Capkun', 'Homayoon S. M. Beigi']",
+SQL Access Control Model.,2011,"['Jerome A. Solinas', 'Sabrina De Capitani di Vimercati', 'Giovanni Livraga']",
+Proof-Carrying Code.,2011,"['Alex Biryukov', 'George C. Necula']",
+MAC Algorithms.,2005,"['Christophe De Canni', 'Bart Preneel']",
+CBC-MAC and Variants.,2011,"['Bart Preneel', 'Bart Preneel']",
+Statistical Databases.,2011,"['Charu C. Aggarwal', 'Nabil R. Adam', 'Haibing Lu', 'Jaideep Vaidya', 'Basit Shafiq']",
+Homomorphic Encryption.,2011,"['Alex Biryukov', 'Berry Schoenmakers']",
+Secure Socket Layer (SSL).,2005,"['Mike Just', 'Clemens Heinrich']",
+Least Common Multiple.,2005,"['Anne Canteaut', 'Scott Contini']",
+Access Pattern.,2011,"['Phong Q. Nguyen', 'Davide Martinenghi']",
+Nonrepudiation.,2005,"['Antoon Bosselaers', 'Randy Sabett']",
+Key Authentication.,2011,"['Caroline Fontaine', 'Robert J. Zuccherato']",
+Primitive Element.,2005,"['Anton Stiglic', 'Burton S. Kaliski Jr.']",
+Cast.,2011,"['Arjen K. Lenstra', 'Christophe De Canni']",
+Filter Generator.,2011,"['Anne Canteaut', 'Anne Canteaut']",
+Point Counting.,2011,"['Marijke De Soete', 'Pierrick Gaudry']",
+Berlekamp ,2011,"['Robert J. Zuccherato', 'Burt Kaliski']",
+Binomial Distribution.,2011,"['Anne Canteaut', 'Burt Kaliski']",
+Kerberos.,2011,"['Berry Schoenmakers', 'Radmilo Racic']",
+Denial-of-Service Detection.,2011,"['John Ioannidis', 'George Kesidis']",
+NFC.,2011,"['Marijke De Soete', 'Marc Vauclair']",
+Man-in-the-Middle Attack.,2005,"['Pierangela Samarati', 'Yvo Desmedt']",
+SET.,2005,"['Burt Kaliski', 'Peter Landrock']",
+Perfect Forward Secrecy.,2005,"['Laurent Sustek', 'Hugo Krawczyk']",
+Number Field Sieve for the DLP.,2011,"['Antoine Joux', 'Reynald Lercier']",
+Differential Privacy.,2011,"['David Naccache', 'Cynthia Dwork']",
+Blackmailing Attacks.,2011,"['Anne Canteaut', 'David Naccache']",
+Group Key Agreement.,2011,"['Bart Preneel', 'Mike Burmester']",
+Access Control from an OS Security Perspective.,2011,"['Sabrina De Capitani di Vimercati', 'Hakki C. Cankaya']",
+Differential-Linear Attack.,2011,"['Bart Preneel', 'Alex Biryukov']",
+Malware Behavior Clustering.,2011,"['Burton S. Kaliski Jr.', 'Engin Kirda']",
+Elliptic Curve Signature Schemes.,2011,"['Darrel Hankerson', 'Alfred Menezes']",
+Time-Memory Trade-offs.,2011,"['Fran', 'Jean-Jacques Quisquater']",
+Inversion attack.,2005,"['Mehdi Tibouchi', 'Anne Canteaut']",
+Cryptrec.,2005,"['David Naccache', 'Hideki Imai', 'Atsuhiro Yamagishi']",
+Linear Feedback Shift Register.,2005,"['Mike Just', 'Anne Canteaut']",
+Chaum Blind Signature Scheme.,2005,"['Tor Helleseth', 'Gerrit Bleumer']",
+Flexible Authorization Framework (FAF).,2011,"['Kazue Sako', 'Pierangela Samarati']",
+Multilevel Security Policies.,2011,"['Fr', 'Nora Cuppens-Boulahia']",
+CCIT2-Code.,2011,"['Caroline Fontaine', 'Friedrich L. Bauer']",
+Intrusion Detection.,2005,"['Shambhu J. Upadhyaya', 'Toni Farley', 'Jill Joseph']",
+Malware Detection.,2011,"['Stefan Katzenbeisser 0001', 'Johannes Kinder', 'Helmut Veith']",
+Barrett's Algorithm.,2011,"['Robert J. Zuccherato', 'David Naccache']",
+Web Cache Poisoning Attacks.,2011,"['Emmanuel Thom', 'Amit Klein']",
+SYN Cookie Defense.,2011,"['Catherine A. Meadows', 'Wesley M. Eddy']",
+Elgamal Digital Signature Scheme.,2005,"['Marc Vauclair', 'Dan Boneh']",
+Rootkits.,2011,"['Matthew K. Franklin', 'Padmaraj M. V. Nair']",
+Mandatory Access Control Policy (MAC).,2011,"['Sabrina De Capitani di Vimercati', 'Pierangela Samarati']",
+Web Security.,2005,"['Bart Preneel', 'Lukasz Opyrchal']",
+Secret Sharing Schemes.,2005,"['Jerome A. Solinas', 'Robert Blakley', 'Gregory A. Kabatiansky']",
+Entitlements Management.,2005,"['Tom Caddy', 'Carlisle Adams']",
+Privacy-Aware Access Control Policies.,2011,"['Caroline Fontaine', 'Sabrina De Capitani di Vimercati']",
+Index Calculus Method.,2011,"['Yvo Desmedt', 'Kim Nguyen']",
+Pairings.,2011,"['Darrel Hankerson', 'Alfred Menezes']",
+Time-Stamping.,2011,"['Stuart Haber', 'Henri Massias']",
+Script Language Security.,2011,"['Tom Caddy', 'Claudio Agostino Ardagna', 'Ernesto Damiani']",
